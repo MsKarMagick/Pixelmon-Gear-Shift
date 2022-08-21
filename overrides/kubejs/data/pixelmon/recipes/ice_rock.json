@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "BBB",
+      "BSB",
+      "BBB"
+    ],
+    "key": {
+          "B": {
+        "item": "minecraft:blue_ice"
+      },
+          "S": {
+        "item": "pixelmon:ice_stone"
+      }
+     },
+    "result": {
+      "item": "pixelmon:ice_rock",
+      "count": 1
+    }
+  }
+  

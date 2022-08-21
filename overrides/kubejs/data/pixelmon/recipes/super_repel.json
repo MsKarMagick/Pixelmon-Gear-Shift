@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "PIB",
+      "PIP",
+      "PIP"
+    ],
+    "key": {
+          "P": {
+        "item": "pixelmon:aluminium_plate"
+      },
+          "I": {
+        "item": "minecraft:spider_eye"
+      },
+          "B": {
+        "item": "quark:iron_button"
+      }
+     },
+    "result": {
+      "item": "pixelmon:super_repel",
+      "count": 4
+    }
+  }
+  

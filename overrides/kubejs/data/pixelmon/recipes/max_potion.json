@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "pixelmon:hyper_potion"
+      },
+      {
+        "item": "pixelmon:hyper_potion"
+      },
+      
+      {
+        "item": "pixelmon:hyper_potion"
+      },
+      {
+        "item": "pixelmon:hyper_potion"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "result": {
+      "item": "pixelmon:max_potion",
+      "count": 1
+    }
+  }

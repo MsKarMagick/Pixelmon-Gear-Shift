@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " W ",
+      "PMP",
+      "PPP"
+    ],
+    "key": {
+        "P": {
+          "item": "pixelmon:aluminium_plate"
+        },
+        "W": {
+          "item": "pixelmon:darkworkplace"
+        },
+        "M": {
+          "item": "create:precision_mechanism"
+        }
+     },
+    "result": {
+      "item": "pixelmon:fossil_machine_display",
+      "count": 1
+    }
+  }
+  

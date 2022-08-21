@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "OMO",
+      "OWO",
+      "BBB"
+    ],
+    "key": {
+          "O": {
+        "item": "minecraft:orange_stained_glass_pane"
+      },
+          "M": {
+        "item": "create:precision_mechanism"
+      },
+          "W": {
+        "item": "pixelmon:darkworkplace"
+      },
+          "B": {
+        "item": "minecraft:polished_basalt"
+      }
+     },
+    "result": {
+      "item": "pixelmon:orange_tank",
+      "count": 1
+    }
+  }
+  
