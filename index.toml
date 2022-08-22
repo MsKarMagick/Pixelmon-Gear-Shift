@@ -637,6 +637,10 @@ file = "kubejs/startup_scripts/script.js"
 hash = "6282496ec89d6d452c7cc7f0758d397fc7bfe9436122dfe3a6cecdc490160bf9"
 
 [[files]]
+file = "mods/3dSkinLayers-forge-1.1.0.jar"
+hash = "8be52fd1dde3ebe5a551f9f7fe6c009f8b240f613f35ad566cc892e1342506ef"
+
+[[files]]
 file = "mods/additional-banners.pw.toml"
 hash = "9e705d2a9265eac44a96785632070c56a89a1ca66f0946a71be8cb2a09788d04"
 metafile = true
@@ -752,9 +756,8 @@ hash = "fbcae0ce3bb0041efc3f06807cc763dd3e86e5fa6dceba048f1fa984293b44be"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "69804dfa70ee67c707c4d06c6193f88c4b8a3c3fbdaf98d9c506f847a06ea90b"
-metafile = true
+file = "mods/entityculling-forge-mc1.16.5-1.5.2.jar"
+hash = "452d9fe997d8514abd28f3b06245a388385cd8b9baf98cce3c76c2915cd7db91"
 
 [[files]]
 file = "mods/etched.pw.toml"
@@ -994,11 +997,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "b4f9abd219e3affcbfd6d592967ce289c5461c404b0c27a5a97c068205ed4c9b"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "4beb580f470b78844b1012419ef1f35232b57d8048e45f00b8d795f7f4ec3c73"
 metafile = true
 
 [[files]]
