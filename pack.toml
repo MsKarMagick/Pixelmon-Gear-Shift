@@ -1,0 +1,13 @@
+name = "Pixelmon Gear Shift"
+author = "MsKarmagick, Big Barza, Kyoki, ProvidenceDaemon"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ec1d1f0d3eb70141b712b07d0e59ba14eeda9047d2c8ea0c64d6ecd00c790e94"
+
+[versions]
+forge = "36.2.39"
+minecraft = "1.16.5"

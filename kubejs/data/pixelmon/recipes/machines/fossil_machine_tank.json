@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "PWP",
+      "PTP",
+      "PWP"
+    ],
+    "key": {
+          "P": {
+        "item": "minecraft:glass_pane"
+      },
+          "T": {
+        "item": "create:fluid_tank"
+      },
+          "W": {
+        "item": "minecraft:water_bucket"
+      }
+     },
+    "result": {
+      "item": "pixelmon:fossil_machine_tank",
+      "count": 1
+    }
+  }
+  

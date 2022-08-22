@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "GYD",
+      "CBC",
+      "DYG"
+    ],
+    "key": {
+          "G": {
+        "item": "pixelmon:dark_gem"
+      },
+          "Y": {
+        "tag": "forge:dyes/yellow"
+      },
+          "D": {
+        "item": "pixelmon:dusk_stone"
+      },
+          "C": {
+        "item": "pixelmon:darkinium_z"
+      },
+          "B": {
+        "item": "minecraft:black_banner"
+      }
+     },
+    "result": {
+      "item": "pixelmon:scroll_of_darkness",
+      "count": 1
+    }
+  }
+  

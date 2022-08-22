@@ -1,6 +1,0 @@
-{
-    "name": "New Trainer Handbook",
-    "landing_text": "Welcome to the [REDACTED] region!$(br2)This handbook will provide you with most of everything a new trainer might need to get started (and survive!) on this expedition.",
-    "version": 0.1,
-    "model": "patchouli:book_blue"
-}

@@ -1,0 +1,16 @@
+{
+    "name": "Chapter 0: Introduction",
+    "icon": "pixelmon:galactic_badge",
+    "category": "patchouli:introduction_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Congratulations on being selected for Galaxy Team's latest expedition! This handbook will teach you everything from the most basic of concepts, to the complexities of Pokéball factories, and even how to craft your own Master Balls.$(br2)There's a few core concepts to get used to, but each of these are going to massively help you $(l)help yourself$()."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["minecraft:textures/intro/galaxy_team_logo.png"],
+            "text": "The next two chapters will cover JEI & Create basics."
+        }
+    ]
+}

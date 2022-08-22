@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "pixelmon:super_potion"
+      },
+      {
+        "item": "pixelmon:super_potion"
+      },
+      
+      {
+        "item": "pixelmon:super_potion"
+      },
+      {
+        "item": "pixelmon:super_potion"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "result": {
+      "item": "pixelmon:hyper_potion",
+      "count": 1
+    }
+  }

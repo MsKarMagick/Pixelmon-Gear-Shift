@@ -1,0 +1,13 @@
+name = "Extreme sound muffler (Forge)"
+filename = "extremeSoundMuffler-3.18_1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d41f0b7cc3eb69b001415bae107cef960bf88f83"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3648093
+project-id = 363363

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "TGT",
+    "TTT"
+  ],
+  "key": {
+		"T": {
+      "item": "minecraft:grass"
+    },
+		"G": {
+      "item": "pixelmon:grass_gem"
+    }
+  },
+  "result": {
+    "item": "pixelmon:pixelmon_grass",
+	"count": 64
+  }
+}

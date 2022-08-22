@@ -1,0 +1,13 @@
+name = "Create gear addon"
+filename = "creategearaddon-v2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a4d09e11eebe706fe17342c429253d4a2634211"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3882536
+project-id = 535563

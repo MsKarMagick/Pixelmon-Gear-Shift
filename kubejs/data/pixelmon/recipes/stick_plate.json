@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SDS",
+    "RGR",
+    " P "
+  ],
+  "key": {
+		"S": {
+      "item": "minecraft:soul_sand"
+    },
+		"D": {
+      "tag": "forge:dyes/blue"
+    },
+		"R": {
+      "item": "minecraft:redstone"
+    },
+		"G": {
+      "item": "create:super_glue"
+    },
+		"P": {
+      "item": "pixelmon:aluminium_plate"
+    }
+   },
+  "result": {
+    "item": "pixelmon:stick_plate",
+	"count": 8
+  }
+}

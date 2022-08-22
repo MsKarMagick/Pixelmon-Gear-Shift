@@ -1,0 +1,13 @@
+name = "Create Automated"
+filename = "createautomated-1.16.5-1.4.1a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c1e0189c109460c2c4060b5c65a6539f2585bd7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3546214
+project-id = 507435

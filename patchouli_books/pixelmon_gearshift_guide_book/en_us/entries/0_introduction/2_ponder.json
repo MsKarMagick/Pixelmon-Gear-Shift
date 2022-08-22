@@ -1,0 +1,11 @@
+{
+    "name": "Chapter 2: Ponder",
+    "icon": "create:brass_hand",
+    "category": "patchouli:introduction_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This hand book isn't going to go into any details about how anything from the Create mod works, because the mod's Ponder system does a better job than a text guide ever could. Hold W on anything from Create to find out how to use it!"
+        }
+    ]
+}
