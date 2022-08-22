@@ -1,0 +1,27 @@
+{
+    "key": "leaf_stone",
+    "category": "gem",
+    "primary": "6",
+    "secondary": "2.9",
+    "tertiary": "0",
+    "durability": "1561",
+    "integrityCost": "2",
+    "integrityGain": "2",
+    "magicCapacity": "60",
+    "toolLevel": "3",
+    "toolEfficiency": "9",
+    "tints": {
+        "glyph": "35853d",
+        "texture": "35853d"
+    },
+    "textures": [
+        "shiny",
+        "crude"
+    ],
+    "material": {
+        "item": "pixelmon:leaf_stone"
+    },
+    "requiredTools": {
+        "hammer": 3
+    }
+}

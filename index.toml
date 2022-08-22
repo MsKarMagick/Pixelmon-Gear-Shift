@@ -517,6 +517,10 @@ file = "kubejs/assets/patchouli/textures/items/book_blue.png"
 hash = "3654d31ad76cdc0afff67ff4709b6f538e136b5af4de0b596229e6883855c09b"
 
 [[files]]
+file = "kubejs/assets/tetra/lang/en_us.json"
+hash = "1a9e58663e784280ec831ab6e0dd47601848857778b75d11cd8cc4e01d332fa7"
+
+[[files]]
 file = "kubejs/client_scripts/script.js"
 hash = "8d6f3db48cc507f2dc6e23919e21837851738fc849cb83772b4186b03bef391d"
 
@@ -631,6 +635,46 @@ hash = "a1724bcc91a03a0ec6e34d6723ca403699cc16ddc4497d92e44713095be628f8"
 [[files]]
 file = "kubejs/data/pixelmon/recipes/super_rod.json"
 hash = "00560a4e5b16e676a9b3d38ea91cdb5b8426087032970c71efc11b05ee469fdb"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/dawn_stone.json"
+hash = "4206ac1b57aaed4afc174d41f230f24a6467f61c5ee8c26f5850a7fd1db32bea"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/dusk_stone.json"
+hash = "0019db2dc9c8a714fb614819abe013950ed91d18ae73366fbfc53d50118ae095"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/fire_stone.json"
+hash = "87778cac2f11c8227b0debe350956470ddc7253f9c6f9d22ae1938c72fb6e1f2"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/ice_stone.json"
+hash = "92c1473d508dca39a4cdc3b6cb1ea94fef0c567bc2ffa68e39b5208582a18c92"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/leaf_stone.json"
+hash = "6283683ccb91166bfdbc95e2d93c7f4f17ed9d327d27f2231f244bfa1cf0e0c6"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/moon_stone.json"
+hash = "9cc14e9957607216d75e6c5770032cb786620d4992faa8c511cf37c94c96a4da"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/shiny_stone.json"
+hash = "5bfaa17892e15bb9a799ef9665c32e5c0a76d49462fd9ed3b48d6867ef1312a6"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/sun_stone.json"
+hash = "17344ea422da9a5fece47baedb3e5dba1c82605ec8455ed8f689f0c1eb453787"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/thunder_stone.json"
+hash = "560d9fe7549c47126d95fe12fceeb9f795c90de191783ba7885b4bfc66c6d985"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/water_stone.json"
+hash = "5a4ddda4c8b727c3ea4dd8d0187b171a9bc562324bc3bcd4d5d948f23ee44370"
 
 [[files]]
 file = "kubejs/exported/tags/blocks.txt"

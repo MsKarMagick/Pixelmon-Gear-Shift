@@ -1,0 +1,27 @@
+{
+    "key": "moon_stone",
+    "category": "gem",
+    "primary": "6",
+    "secondary": "2.9",
+    "tertiary": "0",
+    "durability": "1561",
+    "integrityCost": "2",
+    "integrityGain": "2",
+    "magicCapacity": "60",
+    "toolLevel": "3",
+    "toolEfficiency": "9",
+    "tints": {
+        "glyph": "556b57",
+        "texture": "556b57"
+    },
+    "textures": [
+        "shiny",
+        "crude"
+    ],
+    "material": {
+        "item": "pixelmon:moon_stone"
+    },
+    "requiredTools": {
+        "hammer": 3
+    }
+}

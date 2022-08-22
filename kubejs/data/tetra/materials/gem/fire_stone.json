@@ -1,0 +1,27 @@
+{
+    "key": "fire_stone",
+    "category": "gem",
+    "primary": "6",
+    "secondary": "2.9",
+    "tertiary": "0",
+    "durability": "1561",
+    "integrityCost": "2",
+    "integrityGain": "2",
+    "magicCapacity": "60",
+    "toolLevel": "3",
+    "toolEfficiency": "9",
+    "tints": {
+        "glyph": "e3b236",
+        "texture": "e3b236"
+    },
+    "textures": [
+        "shiny",
+        "crude"
+    ],
+    "material": {
+        "item": "pixelmon:fire_stone"
+    },
+    "requiredTools": {
+        "hammer": 3
+    }
+}

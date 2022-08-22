@@ -1,0 +1,27 @@
+{
+    "key": "dusk_stone",
+    "category": "gem",
+    "primary": "6",
+    "secondary": "2.9",
+    "tertiary": "0",
+    "durability": "1561",
+    "integrityCost": "2",
+    "integrityGain": "2",
+    "magicCapacity": "60",
+    "toolLevel": "3",
+    "toolEfficiency": "9",
+    "tints": {
+        "glyph": "5f3885",
+        "texture": "5f3885"
+    },
+    "textures": [
+        "shiny",
+        "crude"
+    ],
+    "material": {
+        "item": "pixelmon:dusk_stone"
+    },
+    "requiredTools": {
+        "hammer": 3
+    }
+}
