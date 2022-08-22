@@ -485,6 +485,38 @@ file = "kubejs/assets/kubejs/textures/item/origin_ore.png"
 hash = "4c78c02678f2256a3a18cf6d6b72e97d368f6d0976d528de69de25d3bb0cca8e"
 
 [[files]]
+file = "kubejs/assets/minecraft/texts/splashes.txt"
+hash = "2eb2ebb1c9ec5c3c20f84f3bcf0755ae3f50c300f11edc4c43ab71abc7f8aaba"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/intro/galaxy_team_logo.png"
+hash = "a3ae39af3ad2dbacf530266d368f14b3b85d6dfe36d36161a671ee9f42741db6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/jei/1_search_bar.png"
+hash = "984450188f9483e108c60073ff090a7064f8894b8726a02518bcf86850725554"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/jei/2_modname_search.png"
+hash = "2e48b6c9d363fb79bef78bb0d393059efafd5aba7c00a169d7113b91312c932e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/jei/3_move_items.png"
+hash = "71318d9e43e5c77843c478cf2c0545360de7bb4e34ec13b68864d516ade037a4"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/ponder/ponder_1.png"
+hash = "aa515ee0edfe87c3737db023550ba4805a01326e401c604bba8f826809c00905"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/ponder/ponder_2.png"
+hash = "9cca3070ac354353fd766954f462b9cc63858a7368b84f1dbe413c1de308c6a8"
+
+[[files]]
+file = "kubejs/assets/patchouli/textures/items/book_blue.png"
+hash = "3654d31ad76cdc0afff67ff4709b6f538e136b5af4de0b596229e6883855c09b"
+
+[[files]]
 file = "kubejs/client_scripts/script.js"
 hash = "8d6f3db48cc507f2dc6e23919e21837851738fc849cb83772b4186b03bef391d"
 
@@ -1079,12 +1111,8 @@ file = "openloader/.cache"
 hash = "5cd76a7c5fbfa8d048b7f1b5e55da8da4b8ec2e0f87c206ea24f3035aec3f027"
 
 [[files]]
-file = "openloader/resources/Red Sky Menu Music + Splashes.zip"
-hash = "47475e8bc09e0f7e73d7f77f9bcec78d466ca6ef6c86a66070c6617f4d2220c7"
-
-[[files]]
-file = "openloader/resources/guide book assets.zip"
-hash = "f86de20d1b42778272f72ace9fbc76847ee8e38c29e1bad0f73168f4ffd13258"
+file = "openloader/resources/Red Sky Menu Music.zip"
+hash = "3583582f46a67ec8589058505c545a418b02f7b61a3a907f06458d22559ac269"
 
 [[files]]
 file = "patchouli_books/pixelmon_gearshift_guide_book/book.json"
