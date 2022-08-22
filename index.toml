@@ -529,6 +529,10 @@ file = "kubejs/config/common.properties"
 hash = "7f3c76a7b66ec479b83d71a2b3d5371a6df2b8b401f1922ecab54c2b29012c92"
 
 [[files]]
+file = "kubejs/data/create/recipes/crushing/rare_candy_to_exp_candy.json"
+hash = "c395ab2a7b48b6eee5bc7eb5ed568ba957a9fc93fd0944a8be566440534cd49e"
+
+[[files]]
 file = "kubejs/data/pixelmon/recipes/fishing_log.json"
 hash = "66059fd06f8763eff45870b386ce4812a5c3ab72f9b60dbffedb2814e5cd0693"
 
