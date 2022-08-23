@@ -836,6 +836,11 @@ hash = "c6939bf4325d6cf14906518a21beb562541fb37ea97746de43f6527a58d6d184"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "88de9e0b66391586d0764e8fcca14bf6850a99ea030027bbf7946dafefcd0d5a"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "fbcae0ce3bb0041efc3f06807cc763dd3e86e5fa6dceba048f1fa984293b44be"
 metafile = true
