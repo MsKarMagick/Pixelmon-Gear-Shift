@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "PIB",
+      "IGI",
+      "PIP"
+    ],
+    "key": {
+          "P": {
+        "item": "pixelmon:aluminium_plate"
+      },
+          "I": {
+        "item": "pixelmon:aspear_berry"
+      },
+          "B": {
+        "item": "quark:iron_button"
+      },
+          "G": {
+        "item": "minecraft:glass_bottle"
+      }
+     },
+    "result": {
+      "item": "pixelmon:ice_heal",
+      "count": 8
+    }
+  }
+  
