@@ -19,16 +19,21 @@ onEvent('item.tags', event => {
 	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
 })
 
+function hasTrait(item, trait){
+    nbt = item.getNbtString()
+    if(nbt.includes(trait) && !item.getName().toString().includes(trait) && !item.item.isBroken(item.getItemStack())) return true
+    else return false
+}
+
 onEvent('player.tick', event => {
 	user = event.getPlayer()
     item = user.getHeldItem(MAIN_HAND)
-    nbt = item.getNbtString()
-    if(nbt.includes("trait_waterstone") && !item.getName().toString().includes("trait_waterstone")){
+    if(hasTrait(item, "trait_waterstone")){
         if(user.isInWater()){
         if(user.getAirSupply()<20)user.setAirSupply(20)
         eff = user.getPotionEffects()
         if(eff.getDuration("night_vision") < 220) eff.add("night_vision", 300, 0, false, false)
-        if(user.level.getTime()%50 == 0)user.damageHeldItem(MAIN_HAND, 1)
+        if(user.level.getTime()%20 == 0 && Math.random() < 0.25)user.damageHeldItem(MAIN_HAND, 1)
         }
     }
 })
