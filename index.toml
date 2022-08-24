@@ -518,7 +518,7 @@ hash = "3654d31ad76cdc0afff67ff4709b6f538e136b5af4de0b596229e6883855c09b"
 
 [[files]]
 file = "kubejs/assets/tetra/lang/en_us.json"
-hash = "1a9e58663e784280ec831ab6e0dd47601848857778b75d11cd8cc4e01d332fa7"
+hash = "692a3abd015e1610fe496de1b0ba777e71274b463b34c8ecec7f76f873a3e344"
 
 [[files]]
 file = "kubejs/client_scripts/script.js"
@@ -645,6 +645,10 @@ file = "kubejs/data/pixelmon/recipes/super_rod.json"
 hash = "00560a4e5b16e676a9b3d38ea91cdb5b8426087032970c71efc11b05ee469fdb"
 
 [[files]]
+file = "kubejs/data/tetra/improvements/shared/waterstone/waterstone.json"
+hash = "4e4e10255d553e0bfc91ae9dbe651115e16be021c83a179f95d3445c6db230d2"
+
+[[files]]
 file = "kubejs/data/tetra/materials/gem/dawn_stone.json"
 hash = "4206ac1b57aaed4afc174d41f230f24a6467f61c5ee8c26f5850a7fd1db32bea"
 
@@ -682,7 +686,7 @@ hash = "560d9fe7549c47126d95fe12fceeb9f795c90de191783ba7885b4bfc66c6d985"
 
 [[files]]
 file = "kubejs/data/tetra/materials/gem/water_stone.json"
-hash = "5a4ddda4c8b727c3ea4dd8d0187b171a9bc562324bc3bcd4d5d948f23ee44370"
+hash = "51dc5ec829498d01faa4391c3245d1bfbff3d307551939dc95a8d5f6d345039b"
 
 [[files]]
 file = "kubejs/exported/tags/blocks.txt"
@@ -718,7 +722,7 @@ hash = "57103161303a10550792c56b45802019c60f2e189c4472b0bccaaed4d87652e9"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "cd5375c75b6453eea519b595dd510982bb3fca6b6c3c3145a4b7d1a856df4683"
+hash = "82f4ccdde349d6a969a16b039c7a50dc32e435bafac35401655f9f5eb427893d"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"

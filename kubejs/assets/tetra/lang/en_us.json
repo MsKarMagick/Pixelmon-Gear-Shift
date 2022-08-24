@@ -7,6 +7,8 @@
     "tetra.material.sun_stone": "Sun Stone",
     "tetra.material.thunder_stone": "Thunder Stone",
     "tetra.material.water_stone": "Water Stone",
+    "tetra.material.ice_stone": "Ice Stone",
+    "tetra.material.shiny_stone": "Shiny Stone",
     "tetra.material.dawn_stone.prefix": "Dawn Stone",
     "tetra.material.dusk_stone.prefix": "Dusk Stone",
     "tetra.material.fire_stone.prefix": "Fire Stone",
@@ -14,5 +16,9 @@
     "tetra.material.moon_stone.prefix": "Moon Stone",
     "tetra.material.sun_stone.prefix": "Sun Stone",
     "tetra.material.thunder_stone.prefix": "Thunder Stone",
-    "tetra.material.water_stone.prefix": "Water Stone"
+    "tetra.material.water_stone.prefix": "Water Stone",
+    "tetra.material.ice_stone.prefix": "Ice Stone",
+    "tetra.material.shiny_stone.prefix": "Shiny Stone",
+    "tetra.improvement.water_stone.name": "Aquatic",
+    "tetra.improvement.water_stone.description": "Holding this tool while underwater, grants extra mobility along with better vision and water breathing."
 }

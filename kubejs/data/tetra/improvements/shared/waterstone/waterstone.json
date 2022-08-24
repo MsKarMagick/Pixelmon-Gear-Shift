@@ -1,0 +1,9 @@
+[
+    {
+        "key": "water_stone",
+        "textured": false,
+        "attributes": {
+            "**forge:swim_speed": 1
+        }
+    }
+]

@@ -21,6 +21,9 @@
     "material": {
         "item": "pixelmon:water_stone"
     },
+    "improvements": {
+        "water_stone": 0
+    },
     "requiredTools": {
         "hammer": 3
     }
