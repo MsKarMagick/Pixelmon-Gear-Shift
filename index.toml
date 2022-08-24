@@ -541,8 +541,16 @@ file = "kubejs/data/pixelmon/recipes/fishing_log.json"
 hash = "66059fd06f8763eff45870b386ce4812a5c3ab72f9b60dbffedb2814e5cd0693"
 
 [[files]]
+file = "kubejs/data/pixelmon/recipes/full_heal.json"
+hash = "05d58f53bf4b17f3e5b1c014dc8c6b951e8a2e8a95b4517d61dc35981106bd2e"
+
+[[files]]
 file = "kubejs/data/pixelmon/recipes/hyper_potion.json"
 hash = "887aeb8e52a93a003125f7ba44fbdf9db477cf88b4b45aab1e1c2673d11795e3"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/ice_heal.json"
+hash = "e4a404efdff61dd3f22fbed84eb013d6c446190e22a91afb71df8b461b1e36a0"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/ice_rock.json"
