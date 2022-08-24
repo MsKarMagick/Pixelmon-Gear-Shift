@@ -22,7 +22,7 @@
         "item": "pixelmon:water_stone"
     },
     "improvements": {
-        "water_stone": 0
+        "trait_waterstone": 0
     },
     "requiredTools": {
         "hammer": 3

@@ -19,6 +19,6 @@
     "tetra.material.water_stone.prefix": "Water Stone",
     "tetra.material.ice_stone.prefix": "Ice Stone",
     "tetra.material.shiny_stone.prefix": "Shiny Stone",
-    "tetra.improvement.water_stone.name": "Aquatic",
-    "tetra.improvement.water_stone.description": "Holding this tool while underwater, grants extra mobility along with better vision and water breathing."
+    "tetra.improvement.trait_waterstone.name": "Aquatic",
+    "tetra.improvement.trait_waterstone.description": "Holding this tool while underwater, grants extra mobility along with better vision and water breathing. This will slowly wear down the tool."
 }

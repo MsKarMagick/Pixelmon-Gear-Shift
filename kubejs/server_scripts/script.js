@@ -23,11 +23,12 @@ onEvent('player.tick', event => {
 	user = event.getPlayer()
     item = user.getHeldItem(MAIN_HAND)
     nbt = item.getNbtString()
-    if(nbt.includes("double/head_left:water_stone") || nbt.includes("double/head_left:water_stone")){
+    if(nbt.includes("trait_waterstone") && !item.getName().toString().includes("trait_waterstone")){
         if(user.isInWater()){
         if(user.getAirSupply()<20)user.setAirSupply(20)
         eff = user.getPotionEffects()
         if(eff.getDuration("night_vision") < 220) eff.add("night_vision", 300, 0, false, false)
+        if(user.level.getTime()%50 == 0)user.damageHeldItem(MAIN_HAND, 1)
         }
     }
 })

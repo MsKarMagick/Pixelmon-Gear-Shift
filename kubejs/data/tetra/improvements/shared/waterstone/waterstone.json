@@ -1,6 +1,6 @@
 [
     {
-        "key": "water_stone",
+        "key": "trait_waterstone",
         "textured": false,
         "attributes": {
             "**forge:swim_speed": 1

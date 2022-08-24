@@ -518,7 +518,7 @@ hash = "3654d31ad76cdc0afff67ff4709b6f538e136b5af4de0b596229e6883855c09b"
 
 [[files]]
 file = "kubejs/assets/tetra/lang/en_us.json"
-hash = "692a3abd015e1610fe496de1b0ba777e71274b463b34c8ecec7f76f873a3e344"
+hash = "132d98dc38ce9b399f66f64d7e882aaad86bc828dfad3aec688c5a9a6cfad0c5"
 
 [[files]]
 file = "kubejs/client_scripts/script.js"
@@ -646,7 +646,7 @@ hash = "00560a4e5b16e676a9b3d38ea91cdb5b8426087032970c71efc11b05ee469fdb"
 
 [[files]]
 file = "kubejs/data/tetra/improvements/shared/waterstone/waterstone.json"
-hash = "4e4e10255d553e0bfc91ae9dbe651115e16be021c83a179f95d3445c6db230d2"
+hash = "c68435c9ea19ac1296324737b16cc5f64beb7575c6331af33192359e8fc704b3"
 
 [[files]]
 file = "kubejs/data/tetra/materials/gem/dawn_stone.json"
@@ -686,7 +686,7 @@ hash = "560d9fe7549c47126d95fe12fceeb9f795c90de191783ba7885b4bfc66c6d985"
 
 [[files]]
 file = "kubejs/data/tetra/materials/gem/water_stone.json"
-hash = "51dc5ec829498d01faa4391c3245d1bfbff3d307551939dc95a8d5f6d345039b"
+hash = "6bc1b551ead2cb66116f76bfe195dfd6cb5852d85ea64da8ab7b1b62f5a1eea8"
 
 [[files]]
 file = "kubejs/exported/tags/blocks.txt"
@@ -722,7 +722,7 @@ hash = "57103161303a10550792c56b45802019c60f2e189c4472b0bccaaed4d87652e9"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "82f4ccdde349d6a969a16b039c7a50dc32e435bafac35401655f9f5eb427893d"
+hash = "f314eeea6767ac64120433328b8f11f7c494eb329015006464fb737ed3460a32"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
