@@ -12,16 +12,16 @@
       },
       {
         "item": "pixelmon:xs_exp_candy",
-        "count": 10,
+        "count": 6,
         "chance": 0.5
       },
       {
         "item": "pixelmon:s_exp_candy",
-        "count": 5
+        "count": 4
       },
       {
         "item": "pixelmon:s_exp_candy",
-        "count": 5,
+        "count": 4,
         "chance": 0.5
       },
       {
