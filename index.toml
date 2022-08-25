@@ -1006,6 +1006,11 @@ hash = "fbcae0ce3bb0041efc3f06807cc763dd3e86e5fa6dceba048f1fa984293b44be"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "94615d62e6aa4eae9315377416ec33f075ef6e4d5ed4bff51561cb2ff0f03759"
+metafile = true
+
+[[files]]
 file = "mods/etched.pw.toml"
 hash = "b2c835be9a0917f06411622eb3845143b54ec1d8d42782f524f7bf44b4aea024"
 metafile = true
