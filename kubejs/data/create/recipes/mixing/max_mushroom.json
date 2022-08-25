@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "pixelmon:curry_gigantamix"
+      },
+      {
+        "tag": "forge:mushrooms",
+        "count": 8
+      }
+    ],
+    "results": [
+      {
+        "item": "pixelmon:max_mushroom",
+        "count": 2
+      }
+    ],
+    "heatRequirement": "heated"
+  }

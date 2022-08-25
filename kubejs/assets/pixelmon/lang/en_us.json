@@ -4,9 +4,14 @@
     "item.pixelmon.oas_rod": "Antique Fishing Rod",
     "gui.oldfisherman.rod.oas": "Wow! An antique fishing rod! These were made specially for catching unusual patterned Pokémon!",
     "item.pixelmon.lens_silver": "Silver Lens",
-    "item.pixelmon.lens_gold": "Ras' Golden Lens",
+    "item.pixelmon.lens_gold": "Golden Lens",
     "item.pixelmon.copper_hourglass": "Copper Hourglass",
     "item.pixelmon.silver_hourglass": "Silver Hourglass",
     "item.pixelmon.gold_hourglass": "Gold Hourglass",
-    "item.pixelmon.diamond_hourglass": "Diamond Hourglass"
+    "item.pixelmon.diamond_hourglass": "Diamond Hourglass",
+    "item.pixelmon.armorite_ore.tooltip": "Can be crushed into various valuable resources.",
+    "item.pixelmon.dynite_ore.tooltip": "Can be crushed into various valuable resources.",
+    "item.pixelmon.max_mushroom.tooltip": "Used in preparing Max Soup. Pretty bitter, sweetening anything made with these will require something just as powerful.",
+    "item.pixelmon.max_honey.tooltip": "Used in preparing Max Soup. Real Max Honey is acquired from a Dynamaxed Vespiquen...fortunately, this will do just fine as a replacement.",
+    "item.pixelmon.curry_gigantamix.tooltip": "An extremely powerful blend of spices and other odd ingredients...is this safe to consume?"
  }

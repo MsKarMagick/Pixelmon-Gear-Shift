@@ -38,6 +38,11 @@
         "item": "pixelmon:xl_exp_candy",
         "count": 1,
         "chance": 0.02
+      },
+      {
+        "item": "pixelmon:dynamax_candy",
+        "count": 1,
+        "chance": 0.05
       }
     ],
     "processingTime": 200

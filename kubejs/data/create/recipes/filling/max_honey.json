@@ -1,0 +1,17 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "pixelmon:dynamax_candy"
+      },
+      {
+        "fluidTag": "forge:honey",
+        "amount": 500
+      }
+    ],
+    "results": [
+      {
+        "item": "pixelmon:max_honey"
+      }
+    ]
+  }

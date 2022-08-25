@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "DHD",
+      "ESE",
+      "DBD"
+    ],
+    "key": {
+      "D": {
+        "item": "pixelmon:dynite_ore"
+      },
+      "H": {
+        "item": "pixelmon:max_honey"
+      },
+      "E": {
+        "item": "minecraft:experience_bottle"
+      },
+      "S": {
+        "item": "pixelmon:curry_seasoned"
+      },
+      "B": {
+        "item": "minecraft:blaze_powder"
+      }
+     },
+    "result": {
+      "item": "pixelmon:curry_gigantamix"
+    }
+  }
+  

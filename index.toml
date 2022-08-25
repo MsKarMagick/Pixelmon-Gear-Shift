@@ -534,7 +534,15 @@ hash = "3654d31ad76cdc0afff67ff4709b6f538e136b5af4de0b596229e6883855c09b"
 
 [[files]]
 file = "kubejs/assets/pixelmon/lang/en_us.json"
-hash = "31defb075e87fcc6244bf725748aa109ae6fbe7a0ba834b727f8ea5113ab833e"
+hash = "5b4b8aa7a0c2a93c153d1589c175cca078750db7273854e540c1240a6a1670a6"
+
+[[files]]
+file = "kubejs/assets/pixelmon/sounds/pixelmon/binacle.ogg"
+hash = "f31cc3ec1f284a65754165b2c0bfa7cded9275e1a1d73c3dad19e56564aba771"
+
+[[files]]
+file = "kubejs/assets/pixelmon/textures/items/curry/ingredients/gigantamix.png"
+hash = "d84cd2c890b6820edb73d943bbd0699c8d504693b8373c582365e70182994de3"
 
 [[files]]
 file = "kubejs/assets/tetra/lang/en_us.json"
@@ -562,7 +570,15 @@ hash = "907b5b27ce6cb3f67c09f1e79177aa532a09b9118e1f65eb06b061900b8c231b"
 
 [[files]]
 file = "kubejs/data/create/recipes/crushing/rare_candy_to_exp_candy.json"
-hash = "247a982989e4282199eb23e7f685bec38697a10e65a47ecd5d3e4a3d59ba757d"
+hash = "c6ec2e0080895aaed5391917fe0926f7717a93d551100570213e65f10c5fee99"
+
+[[files]]
+file = "kubejs/data/create/recipes/filling/max_honey.json"
+hash = "77960a8732d2ca0a17dd332729236ac82350916b0d80ec058fdcfe7c7e8be1c5"
+
+[[files]]
+file = "kubejs/data/create/recipes/mixing/max_mushroom.json"
+hash = "74cc0391ca6586fa3849327cc34cdc757681b18ebfd7a34f0b368b4575c394b2"
 
 [[files]]
 file = "kubejs/data/forge/tags/items/dragon_related.json"
@@ -651,6 +667,10 @@ hash = "66059fd06f8763eff45870b386ce4812a5c3ab72f9b60dbffedb2814e5cd0693"
 [[files]]
 file = "kubejs/data/pixelmon/recipes/full_heal.json"
 hash = "05d58f53bf4b17f3e5b1c014dc8c6b951e8a2e8a95b4517d61dc35981106bd2e"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/gigantamix.json"
+hash = "b98533ae5e2a72a87f574b15055e7d21b912877638d6ae7df640db491f04aeb1"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/held_items/exp_share.json"
@@ -854,7 +874,7 @@ hash = "b80cbae8a366c2a3ee6854537f74acfa07a72b9c3f11f177e9da26649467c774"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "159e8509649ea82aca70750f6fc5fdfe0538f915259d1a385307f60a26da1706"
+hash = "c34670ba3a5c273492e8923809a786873b826b754498d35fab7c532b68b5ad56"
 
 [[files]]
 file = "mods/3dSkinLayers-forge-1.1.0.jar"
