@@ -1,15 +1,15 @@
 {
     "key": "leaf_stone",
     "category": "gem",
-    "primary": "6",
-    "secondary": "2.9",
+    "primary": "4",
+    "secondary": "1.9",
     "tertiary": "0",
-    "durability": "1561",
+    "durability": "250",
     "integrityCost": "2",
     "integrityGain": "2",
-    "magicCapacity": "60",
-    "toolLevel": "3",
-    "toolEfficiency": "9",
+    "magicCapacity": "30",
+    "toolLevel": "2",
+    "toolEfficiency": "6",
     "tints": {
         "glyph": "35853d",
         "texture": "35853d"
@@ -19,7 +19,12 @@
         "crude"
     ],
     "material": {
-        "item": "pixelmon:leaf_stone"
+        "item": "pixelmon:leaf_stone",
+        "count": 3
+    },
+    "improvements": {
+        "trait_leafstone": 0,
+        "arrested" : 0
     },
     "requiredTools": {
         "hammer": 3

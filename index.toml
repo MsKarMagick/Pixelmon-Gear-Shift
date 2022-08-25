@@ -534,7 +534,7 @@ hash = "3654d31ad76cdc0afff67ff4709b6f538e136b5af4de0b596229e6883855c09b"
 
 [[files]]
 file = "kubejs/assets/tetra/lang/en_us.json"
-hash = "132d98dc38ce9b399f66f64d7e882aaad86bc828dfad3aec688c5a9a6cfad0c5"
+hash = "e0673e330435e9c74bce985168182229c49bd6d333e82e29c2c59d8309abb31e"
 
 [[files]]
 file = "kubejs/client_scripts/script.js"
@@ -761,48 +761,48 @@ file = "kubejs/data/quark/recipes/blank_rune.json"
 hash = "28d17ab697262e927d1bdb45a879e610b8e754b8c4477bcc38c2e0f5b44101d9"
 
 [[files]]
-file = "kubejs/data/tetra/improvements/shared/waterstone/waterstone.json"
-hash = "32ad8ad3e14a941d6138c6ea48162b7239cd1d4b9356368d1b0dc7129803a976"
+file = "kubejs/data/tetra/improvements/shared/evostones.json"
+hash = "d3873bcdae68d861e8c0763fdaaf51874823b87525aff9cdacdb17a8f6f0b481"
 
 [[files]]
 file = "kubejs/data/tetra/materials/gem/dawn_stone.json"
-hash = "4206ac1b57aaed4afc174d41f230f24a6467f61c5ee8c26f5850a7fd1db32bea"
+hash = "b5479240cc6857ebd3b5fcb519b2e7e4e25571d6561ac32b0b0abe9fe80baf23"
 
 [[files]]
 file = "kubejs/data/tetra/materials/gem/dusk_stone.json"
-hash = "0019db2dc9c8a714fb614819abe013950ed91d18ae73366fbfc53d50118ae095"
+hash = "54ab93b78d573f2552fbf150745286c28362f95d0e831ed5d524db5e5d594b9d"
 
 [[files]]
 file = "kubejs/data/tetra/materials/gem/fire_stone.json"
-hash = "87778cac2f11c8227b0debe350956470ddc7253f9c6f9d22ae1938c72fb6e1f2"
+hash = "be0044b1c58019369448a6fac3e43b63e509b43b717319dbdf6985762bebd43d"
 
 [[files]]
 file = "kubejs/data/tetra/materials/gem/ice_stone.json"
-hash = "92c1473d508dca39a4cdc3b6cb1ea94fef0c567bc2ffa68e39b5208582a18c92"
+hash = "04733b340b76fe89624a52c8fc57fd5302bba3c5bc83fed5d69e9ce2a5b304ba"
 
 [[files]]
 file = "kubejs/data/tetra/materials/gem/leaf_stone.json"
-hash = "6283683ccb91166bfdbc95e2d93c7f4f17ed9d327d27f2231f244bfa1cf0e0c6"
+hash = "699a35933275f361b59d5f463f5bedfc603a4f9967a7e914b5779857e09c2dc6"
 
 [[files]]
 file = "kubejs/data/tetra/materials/gem/moon_stone.json"
-hash = "9cc14e9957607216d75e6c5770032cb786620d4992faa8c511cf37c94c96a4da"
+hash = "8dd4484807d28e10a33b45bb3f9c431424b793322deb8b399d76485732c32dde"
 
 [[files]]
 file = "kubejs/data/tetra/materials/gem/shiny_stone.json"
-hash = "5bfaa17892e15bb9a799ef9665c32e5c0a76d49462fd9ed3b48d6867ef1312a6"
+hash = "de5ba641bf1f950229c9a10fe064ff6a6443e6c4b87797cf638dc821eec2f5d5"
 
 [[files]]
 file = "kubejs/data/tetra/materials/gem/sun_stone.json"
-hash = "17344ea422da9a5fece47baedb3e5dba1c82605ec8455ed8f689f0c1eb453787"
+hash = "040e68e2e36cb5e8b0a2272635ddc1fc67d3fcecd2084ff53fd8345f2e5e1b87"
 
 [[files]]
 file = "kubejs/data/tetra/materials/gem/thunder_stone.json"
-hash = "560d9fe7549c47126d95fe12fceeb9f795c90de191783ba7885b4bfc66c6d985"
+hash = "fa67569a8432d3356832fc6f6d51734134aeb9f6ce16c32d854d342da94ca55f"
 
 [[files]]
 file = "kubejs/data/tetra/materials/gem/water_stone.json"
-hash = "6bc1b551ead2cb66116f76bfe195dfd6cb5852d85ea64da8ab7b1b62f5a1eea8"
+hash = "3d94b9c47e7bdbddfda438cac1c3da81d029df8c15be9454edc25d1b60964c01"
 
 [[files]]
 file = "kubejs/exported/tags/blocks.txt"
@@ -838,7 +838,7 @@ hash = "57103161303a10550792c56b45802019c60f2e189c4472b0bccaaed4d87652e9"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "500e1c2ff57417bfc1049fe7b7efbd9895d18137c595e539b365ae5c28d25319"
+hash = "b80cbae8a366c2a3ee6854537f74acfa07a72b9c3f11f177e9da26649467c774"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"

@@ -1,9 +1,0 @@
-[
-    {
-        "key": "trait_waterstone",
-        "textured": false,
-        "attributes": {
-            "**forge:swim_speed": 0.5
-        }
-    }
-]

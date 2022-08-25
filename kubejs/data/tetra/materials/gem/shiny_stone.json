@@ -19,7 +19,8 @@
         "crude"
     ],
     "material": {
-        "item": "pixelmon:shiny_stone"
+        "item": "pixelmon:shiny_stone",
+        "count": 3
     },
     "requiredTools": {
         "hammer": 3

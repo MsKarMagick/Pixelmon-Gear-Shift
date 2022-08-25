@@ -19,7 +19,8 @@
         "crude"
     ],
     "material": {
-        "item": "pixelmon:water_stone"
+        "item": "pixelmon:water_stone",
+        "count": 3
     },
     "improvements": {
         "trait_waterstone": 0

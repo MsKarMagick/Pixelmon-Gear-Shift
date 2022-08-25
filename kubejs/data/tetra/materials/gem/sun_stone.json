@@ -19,7 +19,8 @@
         "crude"
     ],
     "material": {
-        "item": "pixelmon:sun_stone"
+        "item": "pixelmon:sun_stone",
+        "count": 3
     },
     "requiredTools": {
         "hammer": 3

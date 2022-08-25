@@ -29,16 +29,22 @@ function hasImprovement(item, key, minLevel){
 }
 
 onEvent('player.tick', event => {
-user = event.getPlayer()
-item = user.getHeldItem(MAIN_HAND)
-if(item.getId() == "tetra:modular_single" || item.getId() == "tetra:modular_double"){
-if(hasImprovement(item, "trait_waterstone", 0)){
-    if(user.isInWater()){
-    if(user.getAirSupply()<20)user.setAirSupply(20)
-    eff = user.getPotionEffects()
-    if(eff.getDuration("night_vision") < 220) eff.add("night_vision", 300, 0, false, false)
-    if(user.level.getTime()%20 == 0 && Math.random() < 0.25)user.damageHeldItem(MAIN_HAND, 1)
+	user = event.getPlayer()
+    item = user.getHeldItem(MAIN_HAND)
+    if(item.getId() == "tetra:modular_single" || item.getId() == "tetra:modular_double"){
+    //Water Stone
+    if(hasImprovement(item, "trait_waterstone", 0)){
+        if(user.isInWater()){
+        if(user.getAirSupply()<20)user.setAirSupply(20)
+        eff = user.getPotionEffects()
+        if(eff.getDuration("night_vision") < 220) eff.add("night_vision", 300, 0, false, false)
+        if(user.level.getTime()%20 == 0 && Math.random() < 0.25)user.damageHeldItem(MAIN_HAND, 1)
+        }
     }
-}
-}
+    //Leaf Stone
+    if(hasImprovement(item, "trait_leafstone", 0)){
+        if(Math.random() < 0.004) user.damageHeldItem(MAIN_HAND, -1)
+        if(Math.random() < 0.01) user.heal(1)
+    }
+    }
 })

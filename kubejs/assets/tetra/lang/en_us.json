@@ -20,5 +20,7 @@
     "tetra.material.ice_stone.prefix": "Ice Stone",
     "tetra.material.shiny_stone.prefix": "Shiny Stone",
     "tetra.improvement.trait_waterstone.name": "Aquatic",
-    "tetra.improvement.trait_waterstone.description": "Holding this tool while underwater, grants extra mobility along with better vision and water breathing. This will slowly wear down the tool."
+    "tetra.improvement.trait_waterstone.description": "Holding this tool while underwater, grants extra mobility along with better vision and water breathing. This will slowly wear down the tool.",
+    "tetra.improvement.trait_leafstone.name": "Natural",
+    "tetra.improvement.trait_leafstone.description": "Leaf Stones aren't really meant for tools. However, their regenerative properties could prove useful. The tool will slowly heal you and itself while in yout main hand."
 }

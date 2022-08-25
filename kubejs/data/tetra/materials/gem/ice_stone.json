@@ -19,7 +19,8 @@
         "crude"
     ],
     "material": {
-        "item": "pixelmon:ice_stone"
+        "item": "pixelmon:ice_stone",
+        "count": 3
     },
     "requiredTools": {
         "hammer": 3
