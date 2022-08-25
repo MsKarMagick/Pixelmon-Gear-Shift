@@ -485,6 +485,10 @@ file = "kubejs/assets/kubejs/textures/item/chicken_nugget.png"
 hash = "151a3d3479ccaa9c87558cbf5c6142842301fc2390d00732d69f1bc8192522b6"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/chicken_nugget_galactic.png"
+hash = "151a3d3479ccaa9c87558cbf5c6142842301fc2390d00732d69f1bc8192522b6"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/chicken_nugget_raw.png"
 hash = "a6eee3538678d313c6e7e2ce4f77e8f09e420984ed3699d6adb1b0123107e27e"
 
@@ -557,8 +561,60 @@ file = "kubejs/data/forge/tags/items/raw_meats.json"
 hash = "321934be501a14e759e06fb9eab34f6d47a5e0d5c4c49fe5f40d64c255e5df95"
 
 [[files]]
+file = "kubejs/data/minecraft/recipes/blaze_rod.json"
+hash = "2991985f118abc92ba7f92482125cc4b59c89e86685b6dcec84c26b7995c347c"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/bone.json"
+hash = "87e5cdf9c04480df854db7e1dd189f41103ae343673553362d85171d088613ef"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/creeper_head.json"
+hash = "8d2d1408e98e6294c17ede3fb48884a8a0662ed4deef95bfb411688af24f1b23"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/dragon_head.json"
+hash = "5ca7c4a30e77d2e54e1d8221646ae19a140cfff2ecfe0d4de96881a7178a497a"
+
+[[files]]
 file = "kubejs/data/minecraft/recipes/egg.json"
 hash = "b1026de095f1d23ec89af9f8b453cbb421d270b43cd7bad962fdf1657212fd2e"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/ender_pearl.json"
+hash = "24dbfd750a72f74ab46da750b6a270a5d6d02616e6ec8b08f0bd0506cffa8860"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/gunpowder.json"
+hash = "408124f29891ae04cbf45bece11eb801179656b6ea68eb64ade550d422600f6b"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/phantom_membrane.json"
+hash = "e8cbe727cddedac5089fda636baf1a6967e65615544603cd59265400ad5500d6"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/scute.json"
+hash = "0f81eaf33e5f19a38463d7d5cc8a75192629cd5d9a0d36cab6ca73a41f9353ff"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/shulker_shell.json"
+hash = "649d5deb470d7331fb3ecba96f5114237cf357c7201d9b6296ba9bcd435d008e"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/skeleton_skull.json"
+hash = "151444bfa9f7189fcec4cd187b06f6e4ad926fb3faf72de20b8707a8b28eb11e"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/turtle_egg.json"
+hash = "f58c066c646b10c35eb62cb5ac36359a22484e8b21c1dff193a4e2b4b9d6ad6a"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/wither_skeleton_skull.json"
+hash = "0e738c804711671c668bee15b0710dd1971622eeaa4becad6ac78b9b0e43466c"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/zombie_head.json"
+hash = "9cf96940a361f403546060e98804cca07953252267f9c907d4404a3a5ffbac60"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/equipment/item_finder.json"
@@ -782,11 +838,11 @@ hash = "57103161303a10550792c56b45802019c60f2e189c4472b0bccaaed4d87652e9"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "0fece1551c81976593fbcdf78c087671b8b2f444eaa14623c7086675025ef762"
+hash = "500e1c2ff57417bfc1049fe7b7efbd9895d18137c595e539b365ae5c28d25319"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "6282496ec89d6d452c7cc7f0758d397fc7bfe9436122dfe3a6cecdc490160bf9"
+hash = "159e8509649ea82aca70750f6fc5fdfe0538f915259d1a385307f60a26da1706"
 
 [[files]]
 file = "mods/3dSkinLayers-forge-1.1.0.jar"
