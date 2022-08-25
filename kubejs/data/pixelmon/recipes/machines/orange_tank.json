@@ -3,7 +3,7 @@
     "pattern": [
       "OMO",
       "OWO",
-      "BBB"
+      "BXB"
     ],
     "key": {
           "O": {
@@ -17,6 +17,9 @@
       },
           "B": {
         "item": "minecraft:polished_basalt"
+      },
+          "X": {
+        "item": "kubejs:origin_ore_block"
       }
      },
     "result": {

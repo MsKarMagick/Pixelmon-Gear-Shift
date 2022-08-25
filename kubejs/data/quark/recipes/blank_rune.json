@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "DDD",
+      "DRD",
+      "DDD"
+    ],
+    "key": {
+          "D": {
+        "item": "quark:polished_deepslate"
+      },
+          "R": {
+        "item": "create:refined_radiance"
+      }
+     },
+    "result": {
+      "item": "quark:blank_rune",
+      "count": 1
+    }
+  }
+  

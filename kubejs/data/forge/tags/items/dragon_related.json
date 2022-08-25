@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"quark:dragon_scale",
+        "pixelmon:dragon_fang",
+        "pixelmon:dragon_scale",
+        "pixelmon:dragon_gem",
+        "pixelmon:dragon_skull",
+        "minecraft:dragon_breath"
+	]
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "BBB",
+      "CRC",
+      "BBB"
+    ],
+    "key": {
+          "C": {
+        "item": "computercraft:cable"
+      },
+          "B": {
+        "item": "minecraft:black_carpet"
+      },
+          "R": {
+        "item": "pixelmon:rare_candy"
+      }
+     },
+    "result": {
+      "item": "pixelmon:linking_cord",
+      "count": 1
+    }
+  }
+  

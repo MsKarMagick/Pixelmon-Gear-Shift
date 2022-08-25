@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "BBB",
+      "PEP",
+      "IPI"
+    ],
+    "key": {
+          "B": {
+        "item": "createaddition:brass_rod"
+      },
+          "P": {
+        "tag": "forge:plates/zinc"
+      },
+          "E": {
+        "item": "pixelmon:lucky_egg"
+      },
+          "I": {
+        "item": "createaddition:iron_rod"
+      }
+     },
+    "result": {
+      "item": "pixelmon:exp_share",
+      "count": 1
+    }
+  }
+  

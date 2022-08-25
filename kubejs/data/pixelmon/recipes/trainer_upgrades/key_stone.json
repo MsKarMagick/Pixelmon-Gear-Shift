@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "GOG",
+      "OEO",
+      "GOG"
+    ],
+    "key": {
+          "G": {
+        "item": "pixelmon:crystal"
+      },
+          "O": {
+        "item": "kubejs:origin_ore"
+      },
+          "E": {
+        "item": "create:refined_radiance"
+      }
+     },
+    "result": {
+      "item": "pixelmon:key_stone",
+      "count": 1
+    }
+  }
+  

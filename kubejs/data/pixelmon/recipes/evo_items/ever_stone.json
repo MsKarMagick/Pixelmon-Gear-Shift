@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " T ",
+      "FDW",
+      " M "
+    ],
+    "key": {
+          "T": {
+        "item": "pixelmon:thunder_stone"
+      },
+          "F": {
+        "item": "pixelmon:fire_stone"
+      },
+          "W": {
+        "item": "pixelmon:water_stone"
+      },
+          "M": {
+        "item": "pixelmon:moon_stone"
+      },
+          "D": {
+        "item": "quark:polished_deepslate"
+      }
+     },
+    "result": {
+      "item": "pixelmon:ever_stone",
+      "count": 2
+    }
+  }
+  

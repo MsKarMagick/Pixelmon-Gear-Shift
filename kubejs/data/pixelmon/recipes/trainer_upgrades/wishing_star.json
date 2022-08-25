@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "GOG",
+      "OEO",
+      "GOG"
+    ],
+    "key": {
+          "G": {
+        "item": "pixelmon:amethyst"
+      },
+          "O": {
+        "item": "kubejs:origin_ore"
+      },
+          "E": {
+        "item": "create:shadow_steel"
+      }
+     },
+    "result": {
+      "item": "pixelmon:wishing_star",
+      "count": 1
+    }
+  }
+  

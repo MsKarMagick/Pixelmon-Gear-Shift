@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "RPR",
+      "PTP",
+      "SPS"
+    ],
+    "key": {
+          "R": {
+        "item": "createaddition:brass_rod"
+      },
+          "P": {
+        "item": "pixelmon:aluminium_plate"
+      },
+          "T": {
+        "item": "pixelmon:tv2"
+      },
+          "S": {
+        "item": "pixelmon:silicon"
+      }
+     },
+    "result": {
+      "item": "pixelmon:item_finder",
+      "count": 1
+    }
+  }
+  

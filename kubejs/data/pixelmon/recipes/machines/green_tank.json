@@ -3,7 +3,7 @@
     "pattern": [
       "GTG",
       "GWG",
-      "BBB"
+      "BXB"
     ],
     "key": {
           "G": {
@@ -17,6 +17,9 @@
       },
           "B": {
         "item": "minecraft:polished_basalt"
+      },
+          "X": {
+        "item": "kubejs:origin_ore_block"
       }
      },
     "result": {

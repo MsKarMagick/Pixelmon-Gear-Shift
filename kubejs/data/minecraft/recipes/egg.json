@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " C ",
+      "CSC",
+      " C "
+    ],
+    "key": {
+          "C": {
+        "item": "minecraft:white_concrete_powder"
+      },
+          "S": {
+        "item": "minecraft:slime_ball"
+      }
+     },
+    "result": {
+      "item": "minecraft:egg",
+      "count": 8
+    }
+  }
+  
