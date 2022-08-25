@@ -481,6 +481,14 @@ file = "kubejs/assets/kubejs/textures/block/origin_ore_block.png"
 hash = "36ad845e04b1c945cccf0deba0a0c76ffcb2cf732933e8a12b6c8ea0cee99071"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/chicken_nugget.png"
+hash = "151a3d3479ccaa9c87558cbf5c6142842301fc2390d00732d69f1bc8192522b6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/chicken_nugget_raw.png"
+hash = "a6eee3538678d313c6e7e2ce4f77e8f09e420984ed3699d6adb1b0123107e27e"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/origin_hoe.png"
 hash = "7ca4e57f0aacfc0c61bc74a642adb221fe008300fbf0b8df1905d1c237b4183e"
 
@@ -541,12 +549,48 @@ file = "kubejs/data/create/recipes/crushing/rare_candy_to_exp_candy.json"
 hash = "247a982989e4282199eb23e7f685bec38697a10e65a47ecd5d3e4a3d59ba757d"
 
 [[files]]
+file = "kubejs/data/forge/tags/items/dragon_related.json"
+hash = "7ea6d7a277362218a9fc8ec9218db30294bb7df6cbef039ac45233d30566269e"
+
+[[files]]
+file = "kubejs/data/forge/tags/items/raw_meats.json"
+hash = "321934be501a14e759e06fb9eab34f6d47a5e0d5c4c49fe5f40d64c255e5df95"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/egg.json"
+hash = "b1026de095f1d23ec89af9f8b453cbb421d270b43cd7bad962fdf1657212fd2e"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/equipment/item_finder.json"
+hash = "4be3e8d0b6264d14ffb592794bcfd3ac1fce62a98fd2ab40449d1df15fad43f8"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/equipment/wailmer_pail.json"
+hash = "a21cf36e1bcf8712090213ad6dff2f97e00302513eba1de16d843216b681be44"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/evo_items/ever_stone.json"
+hash = "20b0c9bbd5beddb081c87d3c785afdaf8144001554bc8a98e7f14c7a0706678c"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/evo_items/linking_cord.json"
+hash = "e13b059331689d41ee431d42d116d381234f7c86626613f05ef640af2c60339c"
+
+[[files]]
 file = "kubejs/data/pixelmon/recipes/fishing_log.json"
 hash = "66059fd06f8763eff45870b386ce4812a5c3ab72f9b60dbffedb2814e5cd0693"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/full_heal.json"
 hash = "05d58f53bf4b17f3e5b1c014dc8c6b951e8a2e8a95b4517d61dc35981106bd2e"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/held_items/exp_share.json"
+hash = "bfc31f374d785c8201405396b760a17fc5a0e6322ae4741b764a56cb89b26259"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/held_items/lucky_egg.json"
+hash = "c34840e9b1ccd2029476887844188779d2c3d68879938cb826a7a8b52f4c9557"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/hyper_potion.json"
@@ -586,7 +630,7 @@ hash = "e79b2600865887861fe08c11583d6e73838c764772dc3b651161bd771598bdc1"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/machines/green_tank.json"
-hash = "6ea36a4600e50d2aa404deb9c70f9c5d65a30b8574ec55c20f6420bff0b07e2f"
+hash = "53c0eaa670bcc210fac712a0fc72e46203da036db67b5a842ae533dc85589514"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/machines/healer.json"
@@ -594,7 +638,7 @@ hash = "7049b1ed98318ba39de76e641aafa1f179db0965a5b83554f3f36a8a973a1fcb"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/machines/orange_tank.json"
-hash = "1d06a6461f5531c7f33916448dd8c7ff98c092459df1145b635721436709d708"
+hash = "de667d29237380e53d92d5ce9a4082cc1d458c8b86a7e6b55d95cf8f2b2a7c67"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/max_potion.json"
@@ -647,6 +691,18 @@ hash = "a1724bcc91a03a0ec6e34d6723ca403699cc16ddc4497d92e44713095be628f8"
 [[files]]
 file = "kubejs/data/pixelmon/recipes/super_rod.json"
 hash = "00560a4e5b16e676a9b3d38ea91cdb5b8426087032970c71efc11b05ee469fdb"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/trainer_upgrades/key_stone.json"
+hash = "dd5a19bf0da7dd1f3a329b68bb0dce1cdcfc58531730a9a79347586655b1b3a7"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/trainer_upgrades/wishing_star.json"
+hash = "42771047ba28decfa7831906360f7d2dd36b5544586573dadbb1b7e324d6ad45"
+
+[[files]]
+file = "kubejs/data/quark/recipes/blank_rune.json"
+hash = "28d17ab697262e927d1bdb45a879e610b8e754b8c4477bcc38c2e0f5b44101d9"
 
 [[files]]
 file = "kubejs/data/tetra/improvements/shared/waterstone/waterstone.json"
