@@ -23,7 +23,6 @@ function hasImprovement(item, key, minLevel){
     result = false;
     if(item.item.isBroken(item.getItemStack())) return false;
     item.item.getMajorModules(item.getItemStack()).forEach(module =>{
-        console.info(module.getImprovementLevel(item.getItemStack(), key))
         if(module.getImprovementLevel(item.getItemStack(), key) >= minLevel) result = true
     })
     return result
@@ -32,7 +31,6 @@ function hasImprovement(item, key, minLevel){
 onEvent('player.tick', event => {
 user = event.getPlayer()
 item = user.getHeldItem(MAIN_HAND)
-console.info(item.getId())
 if(item.getId() == "tetra:modular_single" || item.getId() == "tetra:modular_double"){
 if(hasImprovement(item, "trait_waterstone", 0)){
     if(user.isInWater()){

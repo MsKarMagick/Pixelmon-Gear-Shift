@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "LLL",
+      "SBS",
+      "LLL"
+    ],
+    "key": {
+          "L": {
+        "item": "minecraft:lime_concrete"
+      },
+          "S": {
+        "item": "minecraft:slime_ball"
+      },
+          "B": {
+        "item": "minecraft:bowl"
+      }
+     },
+    "result": {
+      "item": "minecraft:scute",
+      "count": 1
+    }
+  }
+  

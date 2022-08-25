@@ -4,7 +4,40 @@ console.info('Hello, World! (You will only see this line once in console, during
 
 // ITEM REGISTRY EVENT
 onEvent('item.registry', event => {
-	event.create('origin_ore').displayName('§6Origin Ore§r') 
+	event.create('origin_ore')
+	     .displayName('§6Origin Ore§r')
+
+	event.create('chicken_nugget_raw')
+	     .displayName('Raw Chicken Nugget')
+		 .food(f => {
+			f.hunger(1)
+			f.saturation(0)
+			f.meat(true)
+			f.alwaysEdible(false)
+			f.fastToEat(false)
+			f.effect('minecraft:hunger', 5, 1, 75)
+		 })
+
+	event.create('chicken_nugget')
+	     .displayName('Chicken Nugget')
+		 .food(f => {
+			f.hunger(2)
+			f.saturation(0.2)
+			f.meat(true)
+			f.alwaysEdible(false)
+			f.fastToEat(false)
+		 })
+
+	event.create('chicken_nugget_galactic')
+	     .displayName('Galactic Fried Chicken')
+		 .food(f => {
+			f.hunger(10)
+			f.saturation(0.4)
+			f.meat(true)
+			f.alwaysEdible(true)
+			f.fastToEat(false)
+			f.effect('minecraft:regeneration', 1, 3, 100)
+		 })
 })
 
 // BLOCK REGISTRY EVENT
@@ -36,13 +69,4 @@ onEvent('recipes', event => {
 	event.remove({id: 'grapplemod:rocketdoublemotorhook'})
 	event.remove({id: 'grapplemod:magnethook'})
 	event.remove({id: 'grapplemod:enderhook'})
-
-	event.shaped('1x pixelmon:fishing_log', [
-	  'SSS',
-	  'SPS',
-	  'SSS'
-	], {
-	   S: '#minecraft:wooden_slabs',
-	   P: '#forge:paper'
-	})
 })

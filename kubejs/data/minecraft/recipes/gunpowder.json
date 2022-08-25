@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " C ",
+      "CFC",
+      " C "
+    ],
+    "key": {
+          "C": {
+        "tag": "minecraft:coals"
+      },
+          "F": {
+        "item": "minecraft:flint"
+      }
+     },
+    "result": {
+      "item": "minecraft:gunpowder",
+      "count": 8
+    }
+  }
+  

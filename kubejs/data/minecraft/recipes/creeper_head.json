@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " C ",
+      "CSC",
+      " C "
+    ],
+    "key": {
+          "C": {
+        "item": "minecraft:gunpowder"
+      },
+          "S": {
+       "item": "minecraft:skeleton_skull"
+      }
+     },
+    "result": {
+      "item": "minecraft:creeper_head",
+      "count": 1
+    }
+  }
+  

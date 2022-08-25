@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " MC",
+      "MSM",
+      "CM "
+    ],
+    "key": {
+          "C": {
+        "item": "minecraft:stick"
+      },
+          "M": {
+        "item": "minecraft:white_concrete_powder"
+      },
+          "S": {
+        "item": "minecraft:slime_ball"
+      }
+     },
+    "result": {
+      "item": "minecraft:bone",
+      "count": 4
+    }
+  }
+  

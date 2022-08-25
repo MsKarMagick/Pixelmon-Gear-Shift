@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " MC",
+      "MSM",
+      "CM "
+    ],
+    "key": {
+          "C": {
+        "item": "minecraft:magma_cream"
+      },
+          "M": {
+        "item": "minecraft:magma_block"
+      },
+          "S": {
+        "item": "minecraft:stick"
+      }
+     },
+    "result": {
+      "item": "minecraft:blaze_rod",
+      "count": 4
+    }
+  }
+  

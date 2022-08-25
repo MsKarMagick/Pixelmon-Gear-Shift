@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " G ",
+      "RER",
+      " G "
+    ],
+    "key": {
+          "G": {
+        "item": "minecraft:gunpowder"
+      },
+          "R": {
+        "item": "minecraft:redstone"
+      },
+          "E": {
+        "item": "minecraft:emerald"
+      }
+     },
+    "result": {
+      "item": "minecraft:ender_pearl",
+      "count": 4
+    }
+  }
+  

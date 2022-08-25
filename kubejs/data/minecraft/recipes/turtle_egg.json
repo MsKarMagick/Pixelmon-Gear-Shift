@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "WSW",
+      "EEE",
+      "WSW"
+    ],
+    "key": {
+          "W": {
+        "item": "pixelmon:water_stone_shard"
+      },
+          "E": {
+        "item": "minecraft:egg"
+      },
+          "S": {
+        "item": "minecraft:scute"
+      }
+     },
+    "result": {
+      "item": "minecraft:turtle_egg",
+      "count": 3
+    }
+  }
+  

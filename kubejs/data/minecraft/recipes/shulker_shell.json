@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "MMM",
+      "MPM",
+      "FSF"
+    ],
+    "key": {
+          "M": {
+        "item": "minecraft:magenta_concrete"
+      },
+          "P": {
+        "item": "pixelmon:pearl"
+      },
+          "F": {
+        "item": "pixelmon:moon_stone_shard"
+      },
+          "S": {
+        "item": "minecraft:scute"
+      }
+     },
+    "result": {
+      "item": "minecraft:shulker_shell",
+      "count": 1
+    }
+  }
+  

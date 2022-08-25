@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "SLS",
+      "LQL",
+      "SLS"
+    ],
+    "key": {
+          "S": {
+        "item": "minecraft:slime_ball"
+      },
+          "L": {
+        "item": "minecraft:leather"
+      },
+          "Q": {
+        "item": "minecraft:quartz"
+      }
+     },
+    "result": {
+      "item": "minecraft:phantom_membrane",
+      "count": 4
+    }
+  }
+  
