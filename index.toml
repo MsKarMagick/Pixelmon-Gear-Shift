@@ -562,7 +562,7 @@ hash = "7f3c76a7b66ec479b83d71a2b3d5371a6df2b8b401f1922ecab54c2b29012c92"
 
 [[files]]
 file = "kubejs/data/create/recipes/crushing/armorite_ore_processing.json"
-hash = "0484d627c400f57d308b8f14c54f38f83aaecfd540f88b4f35123dd2564a35e7"
+hash = "4d7c96a0f89b33eb28bdbd0856b77c01b5700deea428d40e3c7efc0b8a6c1ae7"
 
 [[files]]
 file = "kubejs/data/create/recipes/crushing/dynite_ore_processing.json"
