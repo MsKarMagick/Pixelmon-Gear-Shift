@@ -19,21 +19,28 @@ onEvent('item.tags', event => {
 	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
 })
 
-function hasTrait(item, trait){
-    nbt = item.getNbtString()
-    if(nbt.includes(trait) && !item.getName().toString().includes(trait) && !item.item.isBroken(item.getItemStack())) return true
-    else return false
+function hasImprovement(item, key, minLevel){
+    result = false;
+    if(item.item.isBroken(item.getItemStack())) return false;
+    item.item.getMajorModules(item.getItemStack()).forEach(module =>{
+        console.info(module.getImprovementLevel(item.getItemStack(), key))
+        if(module.getImprovementLevel(item.getItemStack(), key) >= minLevel) result = true
+    })
+    return result
 }
 
 onEvent('player.tick', event => {
-	user = event.getPlayer()
-    item = user.getHeldItem(MAIN_HAND)
-    if(hasTrait(item, "trait_waterstone")){
-        if(user.isInWater()){
-        if(user.getAirSupply()<20)user.setAirSupply(20)
-        eff = user.getPotionEffects()
-        if(eff.getDuration("night_vision") < 220) eff.add("night_vision", 300, 0, false, false)
-        if(user.level.getTime()%20 == 0 && Math.random() < 0.25)user.damageHeldItem(MAIN_HAND, 1)
-        }
+user = event.getPlayer()
+item = user.getHeldItem(MAIN_HAND)
+console.info(item.getId())
+if(item.getId() == "tetra:modular_single" || item.getId() == "tetra:modular_double"){
+if(hasImprovement(item, "trait_waterstone", 0)){
+    if(user.isInWater()){
+    if(user.getAirSupply()<20)user.setAirSupply(20)
+    eff = user.getPotionEffects()
+    if(eff.getDuration("night_vision") < 220) eff.add("night_vision", 300, 0, false, false)
+    if(user.level.getTime()%20 == 0 && Math.random() < 0.25)user.damageHeldItem(MAIN_HAND, 1)
     }
+}
+}
 })
