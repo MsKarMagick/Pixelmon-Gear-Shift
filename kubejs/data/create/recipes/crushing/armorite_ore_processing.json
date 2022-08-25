@@ -1,0 +1,46 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "pixelmon:armorite_ore"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:prismarine_crystals",
+        "count": 64,
+        "chance": 0.2
+      },
+      {
+        "item": "create:crushed_silver_ore",
+        "count": 24,
+        "chance": 0.1
+      },
+      {
+        "item": "create:crushed_platinum_ore",
+        "count": 12,
+        "chance": 0.1
+      },
+      {
+        "item": "create:crushed_zinc_ore",
+        "count": 32,
+        "chance": 0.25
+      },
+      {
+        "item": "pixelmon:wishing_piece",
+        "count": 1,
+        "chance": 0.05
+      },
+      {
+        "item": "pixelmon:waterdude_wishing_piece",
+        "count": 1,
+        "chance": 0.001
+      },
+      {
+        "item": "kubejs:origin_ore",
+        "count": 4,
+        "chance": 0.01
+      }
+    ],
+    "processingTime": 200
+  }

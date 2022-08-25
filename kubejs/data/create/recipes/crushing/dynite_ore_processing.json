@@ -1,0 +1,46 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "pixelmon:dynite_ore"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:crushed_copper_ore",
+        "count": 16,
+        "chance": 0.2
+      },
+      {
+        "item": "create:crushed_iron_ore",
+        "count": 16,
+        "chance": 0.1
+      },
+      {
+        "item": "create:crushed_brass",
+        "count": 16,
+        "chance": 0.1
+      },
+      {
+        "item": "create:crushed_gold_ore",
+        "count": 32,
+        "chance": 0.1
+      },
+      {
+        "item": "pixelmon:wishing_piece",
+        "count": 1,
+        "chance": 0.01
+      },
+      {
+        "item": "pixelmon:waterdude_wishing_piece",
+        "count": 1,
+        "chance": 0.0001
+      },
+      {
+        "item": "kubejs:origin_ore",
+        "count": 3,
+        "chance": 0.01
+      }
+    ],
+    "processingTime": 200
+  }
