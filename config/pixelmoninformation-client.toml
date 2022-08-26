@@ -1,7 +1,7 @@
 
 [tooltips]
 	#If true, will integrate with item tooltips.
-	enableTooltipIntegration = true
+	enableTooltipIntegration = false
 	#If true, will only show tooltip information when advanced tooltip enabled.
 	tooltipsRestrictToAdvanced = false
 	#If true, will only show tooltip information when crouch key pressed.
