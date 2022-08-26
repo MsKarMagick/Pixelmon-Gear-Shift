@@ -358,7 +358,7 @@ hash = "d258c2275f49d0477bd482af1cd79194985aa75471305e729dfa8c5bcab6966c"
 
 [[files]]
 file = "config/pixelmoninformation-client.toml"
-hash = "591d3144418e7bf0ebf70bcd62f012603165efa58fcc032175172919335847a1"
+hash = "d452ff2721b6c354cc26ae65f662a092796054c784f6481e837aa7248d1133f5"
 
 [[files]]
 file = "config/pixelmoninformation-common.toml"
@@ -377,22 +377,6 @@ file = "config/roadrunner/rules.properties"
 hash = "74eab23deb1deeb565c8adb2f831256c3de3d9f71fa8764643cc178d7de82450"
 
 [[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "88dd53a26a8563026ee5011271abdfb5f0e32a07d8485eec1dbf27b4c7da8445"
-
-[[files]]
-file = "config/sereneseasons/biome_info.json"
-hash = "0ea31da6d510330835cf16cee4bad9853bf3f65cc5a34fe17ac380fb3eddee41"
-
-[[files]]
-file = "config/sereneseasons/fertility.toml"
-hash = "8a9d38ca6b3d5054984f03f4f97689c1d6bde5c2b84250095033d3122576fc2c"
-
-[[files]]
-file = "config/sereneseasons/seasons.toml"
-hash = "5635fec4c0a42dd8196a388fe1fd74a0f246b52bceb7bae0bdc162c90a1bb0be"
-
-[[files]]
 file = "config/skinlayers.json"
 hash = "35d82e00bc33207f3e3d5a7f64b1397d7528c0dcc441feb48704b210db249923"
 
@@ -407,10 +391,6 @@ hash = "1e838cfbbce9d10a923db506e0b5ef025c84592c0ac535c3ef9372801146571b"
 [[files]]
 file = "config/sodium-options.json"
 hash = "bcac1990b8935c092a08ed510dbddd8fb4418773b77de98c014af13548d9b1dc"
-
-[[files]]
-file = "config/statement/config.json"
-hash = "128fdbe7883e8755d4858f050ad8b91a6ed07a7cde7eac16da504bffe80ee33d"
 
 [[files]]
 file = "config/storagedrawers-client.toml"
@@ -431,14 +411,6 @@ hash = "a61293ac8f68147dfc3f23a1363e783332f0cb47866504faa5ca4de638e1fa33"
 [[files]]
 file = "config/supplementaries-registry.toml"
 hash = "f5d5533857568d9cf7d09931ef818131b2d3694e5280741ff47d87e2dfcf683a"
-
-[[files]]
-file = "config/terraforged/biome_weights.conf"
-hash = "4359c6a25c15d05212e3124eee50ae89ddbbe9c71c5e6abfa605770bc38c93a0"
-
-[[files]]
-file = "config/terraforged/general.conf"
-hash = "269cec4d85c01760e3da8dc12b4c18abb18a68f9bf633aaa847b38370dfdd95c"
 
 [[files]]
 file = "config/tetra.toml"
