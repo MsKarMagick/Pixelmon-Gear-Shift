@@ -370,7 +370,7 @@ hash = "0fc2a12eee6d16e8b5c193b1ca172bda2c6c45fc7f630e16f689847171264a46"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "47aeef508db3632aa52553e6176f48110a475de9835a134b6c99803349e86080"
+hash = "d72798b25a60da9294ed3eb772e127ed701df345c50b05ebcd7863be31d6c8b1"
 
 [[files]]
 file = "config/roadrunner/rules.properties"
