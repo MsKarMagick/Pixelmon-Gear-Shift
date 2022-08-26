@@ -914,7 +914,7 @@ hash = "b80cbae8a366c2a3ee6854537f74acfa07a72b9c3f11f177e9da26649467c774"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "806cd7d900b9593fcb405d97ba4ba079a19856a16003fc0d7882c29eb572d1aa"
+hash = "038a53d6e99510e6610e6bb4d9353f7cc093f3fd843980b0d1b2ef5abbd58d01"
 
 [[files]]
 file = "mods/3dSkinLayers-forge-1.1.0.jar"
