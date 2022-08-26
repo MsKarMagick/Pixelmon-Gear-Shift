@@ -370,7 +370,7 @@ hash = "0fc2a12eee6d16e8b5c193b1ca172bda2c6c45fc7f630e16f689847171264a46"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "b8222fbd235328be7bb9edc0d8a74a85fe06c8c153b9543d7b54c7cb96f66b6f"
+hash = "47aeef508db3632aa52553e6176f48110a475de9835a134b6c99803349e86080"
 
 [[files]]
 file = "config/roadrunner/rules.properties"
@@ -573,12 +573,52 @@ file = "kubejs/data/create/recipes/crushing/rare_candy_to_exp_candy.json"
 hash = "c6ec2e0080895aaed5391917fe0926f7717a93d551100570213e65f10c5fee99"
 
 [[files]]
+file = "kubejs/data/create/recipes/deploying/picking/emerald_from_prismarine_deploying.json"
+hash = "08cd526d039319fc00dbd093f99303e08aca19e4991cc4c0e539d95c97e58f57"
+
+[[files]]
 file = "kubejs/data/create/recipes/filling/max_honey.json"
 hash = "77960a8732d2ca0a17dd332729236ac82350916b0d80ec058fdcfe7c7e8be1c5"
 
 [[files]]
+file = "kubejs/data/create/recipes/mixing/ice_from_water_stone.json"
+hash = "5a1007ae9a010189c5e6ddea2afd50d5001f2535d32a6c0f21d7ce30d0c980a9"
+
+[[files]]
+file = "kubejs/data/create/recipes/mixing/ink_sac.json"
+hash = "4f90ae9f4333e6f0820ac9199d697b790605724cd77edb9fba5d773e7383c3b7"
+
+[[files]]
 file = "kubejs/data/create/recipes/mixing/max_mushroom.json"
 hash = "74cc0391ca6586fa3849327cc34cdc757681b18ebfd7a34f0b368b4575c394b2"
+
+[[files]]
+file = "kubejs/data/create/recipes/mixing/rabbit_foot.json"
+hash = "ce037b1c22b9e2ed6f6d626041816031630504cf9ef681ef4b740a517aa8fcb7"
+
+[[files]]
+file = "kubejs/data/create/recipes/mixing/rotten_flesh.json"
+hash = "01c0ed4d83c5a07379ac81477af2501f574a114c1ab37e2921d817ee469fb369"
+
+[[files]]
+file = "kubejs/data/create/recipes/picking/emerald_from_prismarine_picking.json"
+hash = "47bf97926e830bca70b6a27efe433bb74f7bb310ca3cefc609939674eccc6ad6"
+
+[[files]]
+file = "kubejs/data/create/recipes/pressing/lava_cookie.json"
+hash = "ec87039833a794895675ca048de7fe7870446040ddca3c0ee0d45971a85e4d41"
+
+[[files]]
+file = "kubejs/data/create/recipes/pressing/leather.json"
+hash = "fed77153be4d3f5a75f9d341f596524b6bbfab838be593cefb4742a0a2a189a6"
+
+[[files]]
+file = "kubejs/data/create/recipes/pressing/rabbit_hide.json"
+hash = "851aa3542d9506552e4e85ea9fdd12e10c891ada727301ffbabe3b0ca47af99c"
+
+[[files]]
+file = "kubejs/data/create/recipes/splashing/ice.json"
+hash = "67de76ca8107d815d46211531c3f013e50205990d55a7bffa6ad0690b2dc4c15"
 
 [[files]]
 file = "kubejs/data/forge/tags/items/dragon_related.json"
@@ -874,7 +914,7 @@ hash = "b80cbae8a366c2a3ee6854537f74acfa07a72b9c3f11f177e9da26649467c774"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "c34670ba3a5c273492e8923809a786873b826b754498d35fab7c532b68b5ad56"
+hash = "806cd7d900b9593fcb405d97ba4ba079a19856a16003fc0d7882c29eb572d1aa"
 
 [[files]]
 file = "mods/3dSkinLayers-forge-1.1.0.jar"
