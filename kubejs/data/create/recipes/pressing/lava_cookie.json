@@ -1,0 +1,14 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+      {
+        "item": "create:blaze_cake"
+      }
+    ],
+    "results": [
+      {
+        "item": "pixelmon:lava_cookie",
+        "count": 8
+      }
+    ]
+  }

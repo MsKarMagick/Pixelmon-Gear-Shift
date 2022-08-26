@@ -1,0 +1,13 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+      {
+        "item": "minecraft:rabbit"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:rabbit_hide"
+      }
+    ]
+  }

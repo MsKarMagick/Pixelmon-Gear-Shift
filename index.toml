@@ -961,6 +961,11 @@ hash = "2869256a89f1013125bbce5fc62265e47012ad09fd3b2cc53f37919bc3c8a042"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "b21b4164982bac91457200c78d38981a823eac8756f64f396fb22dbf42abc1a4"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "ee6b63b9f81d87c75ac5115232548df5347fe9456f7ee8a80cd137043616191a"
 metafile = true
@@ -1053,11 +1058,6 @@ metafile = true
 [[files]]
 file = "mods/grappling-hook-mod.pw.toml"
 hash = "b4466539ae85ddf37803b187d6914a46421bf37d5dc3464891426c0806c9087b"
-metafile = true
-
-[[files]]
-file = "mods/iron-chests.pw.toml"
-hash = "68995b9ea503260f1a5dafe4667b028fa44c3079d50c7372d85f842db274088e"
 metafile = true
 
 [[files]]

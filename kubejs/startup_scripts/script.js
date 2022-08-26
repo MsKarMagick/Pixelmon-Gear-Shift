@@ -54,6 +54,20 @@ onEvent('block.registry', event => {
 		 .renderType('solid')
 })
 
+// ITEM MODIFICATION EVENT
+onEvent('item.modification', event => {
+	event.modify('pixelmon:lava_cookie', item => {
+		item.setFoodProperties(f => {
+			f.hunger(3)
+			f.saturation(0.1)
+			f.meat(false)
+			f.alwaysEdible(true)
+			f.fastToEat(true)
+			f.effect('minecraft:fire_resistance', 1, 45, 100)
+		 })
+	})
+  })
+
 // RECIPES EVENT
 onEvent('recipes', event => {
 	//Replace max soup recipe.

@@ -1,0 +1,13 @@
+{
+    "type": "createautomated:picking",
+    "results": [
+      {
+        "item": "createautomated:emerald_bit",
+        "count": 1,
+        "chance": 0.001
+      }
+    ],
+    "ingredient": {
+      "item": "minecraft:prismarine_crystals"
+    }
+  }

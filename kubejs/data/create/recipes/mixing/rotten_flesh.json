@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "forge:raw_meats"
+      },
+      {
+        "item": "minecraft:slime_ball" 
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:rotten_flesh",
+        "count": 4
+      }
+    ]
+  }

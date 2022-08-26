@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "minecraft:prismarine_crystals"
+    },
+    {
+      "item": "createautomated:picker"
+    }
+  ],
+  "results": [
+    {
+      "item": "createautomated:emerald_bit",
+      "chance": 0.001
+    }
+  ]
+}

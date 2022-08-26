@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "minecraft:coals"
+      },
+      {
+        "fluid": "minecraft:water",
+        "amount": 250
+      },
+      {
+        "item": "minecraft:leather"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:ink_sac",
+        "count": 4
+      }
+    ]
+  }
