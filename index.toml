@@ -1078,6 +1078,11 @@ hash = "b4466539ae85ddf37803b187d6914a46421bf37d5dc3464891426c0806c9087b"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "802cba450a7fbba6009d691b9d94a05149e4e069c9dac2c6458bd76369440fbc"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "c7ec1444792e09cced117d3ad2d27f2c4d952dd1989b3110ef98c4970f228ab4"
 metafile = true
