@@ -48,3 +48,19 @@ onEvent('player.tick', event => {
     }
     }
 })
+
+
+onEvent('entity.attack', event => {
+    entity = event.getEntity()
+    source = event.getSource()
+    world = event.getEntity().getLevel()
+	if(entity.getType() == "pixelmon:pixelmon" && source.getType() == "anvil"){
+        data = entity.getFullNBT()
+        if(data.ndex == 241 && data.Owner == undefined){
+            if(world.getBlock(entity.getX(),entity.getY(),entity.getZ()).id == "cookingforblockheads:milk_jar"){
+                event.server.runCommandSilent("setblock "+Math.floor(entity.getX())+" "+Math.floor(entity.getY())+" "+Math.floor(entity.getZ())+" cookingforblockheads:cow_jar")
+                entity.kill()
+            }
+        }
+    }
+})
