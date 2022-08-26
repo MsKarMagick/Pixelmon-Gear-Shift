@@ -54,7 +54,7 @@ onEvent('block.registry', event => {
 		 .renderType('solid')
 })
 
-// ITEM MODIFICATION EVENT
+/* ITEM MODIFICATION EVENT
 onEvent('item.modification', event => {
 	event.modify('pixelmon:lava_cookie', item => {
 		item.setFoodProperties(f => {
@@ -66,7 +66,7 @@ onEvent('item.modification', event => {
 			f.effect('minecraft:fire_resistance', 1, 45, 100)
 		 })
 	})
-  })
+  })*/
 
 // RECIPES EVENT
 onEvent('recipes', event => {
