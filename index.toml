@@ -449,6 +449,10 @@ file = "kubejs/README.txt"
 hash = "801703f280e4ff26fb4be02067cb583a79f7618bc0966b11d55b80492fddb56b"
 
 [[files]]
+file = "kubejs/assets/cookingforblockheads/textures/gui/jei_cow_jar.png"
+hash = "168891d40cc40a728a26ce3200bdbb53646c13e010b9ae864b5dbcca77f670de"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/origin_ore_block.png"
 hash = "36ad845e04b1c945cccf0deba0a0c76ffcb2cf732933e8a12b6c8ea0cee99071"
 
