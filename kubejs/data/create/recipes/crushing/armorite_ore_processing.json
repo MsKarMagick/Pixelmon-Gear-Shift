@@ -29,12 +29,12 @@
       {
         "item": "pixelmon:wishing_piece",
         "count": 1,
-        "chance": 0.025
+        "chance": 0.04
       },
       {
         "item": "pixelmon:waterdude_wishing_piece",
         "count": 1,
-        "chance": 0.00025
+        "chance": 0.00055
       },
       {
         "item": "kubejs:origin_ore",
