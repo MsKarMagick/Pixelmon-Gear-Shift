@@ -781,10 +781,6 @@ file = "kubejs/data/pixelmon/recipes/scroll_of_waters.json"
 hash = "6fcaaafbae8b5e5b17ce52e0714ad42648bfddca4fb4405f6f82fadebff957f9"
 
 [[files]]
-file = "kubejs/data/pixelmon/recipes/stick_plate.json"
-hash = "079046ae5cf1c61ea4abb36a29776161abd53516f9441d10cef218be1d793834"
-
-[[files]]
 file = "kubejs/data/pixelmon/recipes/super_potion.json"
 hash = "7f489cbd0f8f0a73cf6158db3371fca9863cdbe1ed72d9544295746b9e02b689"
 
