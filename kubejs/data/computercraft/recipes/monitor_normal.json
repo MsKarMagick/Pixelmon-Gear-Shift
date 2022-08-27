@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "SSS",
+      "SMS",
+      "SSS"
+    ],
+    "key": {
+          "S": {
+        "tag": "forge:stone"
+      },
+          "M": {
+        "item": "create:electron_tube"
+      }
+    },
+    "result": {
+      "item": "computercraft:monitor_normal",
+      "count": 8
+    }
+  }
+  

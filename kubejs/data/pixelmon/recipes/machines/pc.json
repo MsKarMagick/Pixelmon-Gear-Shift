@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "RWR",
+      "RMR",
+      "PPP"
+    ],
+    "key": {
+          "R": {
+        "item": "minecraft:red_concrete"
+      },
+          "W": {
+        "item": "pixelmon:darkworkplace"
+      },
+          "P": {
+        "item": "pixelmon:aluminium_plate"
+      },
+          "M": {
+        "item": "create:precision_mechanism"
+      }
+     },
+    "result": {
+      "item": "pixelmon:pc",
+      "count": 1
+    }
+  }
+  

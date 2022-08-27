@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "SES",
+      "SMS",
+      "SNS"
+    ],
+    "key": {
+          "S": {
+        "item": "minecraft:gold_ingot"
+      },
+          "M": {
+        "item": "create:precision_mechanism"
+      },
+          "E": {
+        "item": "pixelmon:thunder_stone_shard"
+      },
+          "N": {
+        "item": "create:electron_tube"
+          }
+    },
+    "result": {
+      "item": "computercraft:computer_normal",
+      "count": 1
+    }
+  }
+  

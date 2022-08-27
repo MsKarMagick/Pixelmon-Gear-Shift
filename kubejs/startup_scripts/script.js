@@ -54,9 +54,9 @@ onEvent('block.registry', event => {
 		 .renderType('solid')
 })
 
-/* ITEM MODIFICATION EVENT
+// ITEM MODIFICATION EVENT
 onEvent('item.modification', event => {
-	event.modify('pixelmon:lava_cookie', item => {
+	/*event.modify('pixelmon:lava_cookie', item => {
 		item.setFoodProperties(f => {
 			f.hunger(3)
 			f.saturation(0.1)
@@ -65,8 +65,11 @@ onEvent('item.modification', event => {
 			f.fastToEat(true)
 			f.effect('minecraft:fire_resistance', 1, 45, 100)
 		 })
+	})*/
+	event.modify('cookingforblockheads:cow_jar', item => {
+		item.setDisplayName
 	})
-  })*/
+  })
 
 // RECIPES EVENT
 onEvent('recipes', event => {
@@ -112,4 +115,15 @@ onEvent('recipes', event => {
 	event.remove({id: 'grapplemod:rocketdoublemotorhook'})
 	event.remove({id: 'grapplemod:magnethook'})
 	event.remove({id: 'grapplemod:enderhook'})
+
+	//ComputerCraft Removes
+	event.remove({id:'computercraft:turtle_advanced'})
+	event.remove({id:'computercraft:turtle_advanced_upgrade'})
+	event.remove({id:'computercraft:turtle_normal'})
+	event.remove({id:'computercraft:computer_advanced_upgrade'})
+	event.remove({id:'advancedperipherals:weak_automata_core'})
+	event.remove({id:'advancedperipherals:overpowered_weak_automata_core'})
+	event.remove({id:'advancedperipherals:overpowered_end_automata_core'})
+	event.remove({id:'advancedperipherals:overpowered_husbandry_automata_core'})
+	event.remove({id:'advancedperipherals:chunk_controller'})
 })

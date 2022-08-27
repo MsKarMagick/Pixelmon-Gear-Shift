@@ -1,0 +1,19 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "fluid": "minecraft:lava",
+        "amount": 125
+      },
+      {
+        "item": "kubejs:origin_ore",
+        "count": 9
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:origin_ore_block"
+      }
+    ],
+    "heatRequirement": "superheated"
+  }
