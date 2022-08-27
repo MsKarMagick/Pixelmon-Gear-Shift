@@ -534,7 +534,7 @@ hash = "e0673e330435e9c74bce985168182229c49bd6d333e82e29c2c59d8309abb31e"
 
 [[files]]
 file = "kubejs/client_scripts/script.js"
-hash = "8d6f3db48cc507f2dc6e23919e21837851738fc849cb83772b4186b03bef391d"
+hash = "cedf650a2e0ba2f96453469bce596893984ecf54ed7c2d922d4a2e0959874184"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -543,6 +543,34 @@ hash = "58cadf6c09156d6b60839d476027b8eb313b269bce9d78cff698322835db5113"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "7f3c76a7b66ec479b83d71a2b3d5371a6df2b8b401f1922ecab54c2b29012c92"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/computer_advanced.json"
+hash = "3bd7ba0070463eb571b5dd6b4a08d22619b2f51b94efc00f83461e49ff6ac15a"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/computer_normal.json"
+hash = "6c66d3881eb26a48e7a95e1e38b6c0eb4edd7cc9d57e2f415c40fe6db09614f4"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/monitor_advanced.json"
+hash = "815aa134570223675ebd38a50613f831cb916e7285ebc4c7c13bac5d34f710fc"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/monitor_normal.json"
+hash = "c0b3a0af1a816d641e223a065ad7c3bd6d1ad7338f33e769dd620fb1e7e26efb"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/pocket_computer_advanced.json"
+hash = "688ac12d0a1ab60aa9a3c3aec567740e3a67c58c6bfb8fbd8f06020999c2207f"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/pocket_computer_normal.json"
+hash = "a57d59953aa4614d484368a0f24522f87937d29b73742571c14863feb0598897"
+
+[[files]]
+file = "kubejs/data/create/recipes/compacting/origin_ore_block.json"
+hash = "8cea50d126e7efce46c9e7f1ba9998467128f58548a94c636bb12a670308fc5e"
 
 [[files]]
 file = "kubejs/data/create/recipes/crushing/armorite_ore_processing.json"
@@ -587,6 +615,10 @@ hash = "01c0ed4d83c5a07379ac81477af2501f574a114c1ab37e2921d817ee469fb369"
 [[files]]
 file = "kubejs/data/create/recipes/picking/emerald_from_prismarine_picking.json"
 hash = "47bf97926e830bca70b6a27efe433bb74f7bb310ca3cefc609939674eccc6ad6"
+
+[[files]]
+file = "kubejs/data/create/recipes/pressing/aluminium_plate.json"
+hash = "3b4cf3e1ccdc91a37ff0fe6101be1fc4f043c72e2df3abd0b93f152dd16a2d86"
 
 [[files]]
 file = "kubejs/data/create/recipes/pressing/lava_cookie.json"
@@ -753,6 +785,10 @@ file = "kubejs/data/pixelmon/recipes/machines/orange_tank.json"
 hash = "de667d29237380e53d92d5ce9a4082cc1d458c8b86a7e6b55d95cf8f2b2a7c67"
 
 [[files]]
+file = "kubejs/data/pixelmon/recipes/machines/pc.json"
+hash = "8c0415e676313fc744d4a38c51c2a8f9f70039081283ac89acb3141b9e808fbc"
+
+[[files]]
 file = "kubejs/data/pixelmon/recipes/max_potion.json"
 hash = "27aa03748a73dea4b51f855c9165a79d6c73574143a25cccc740b8587b603d2f"
 
@@ -898,7 +934,7 @@ hash = "8297e2c804b30c01425263fa21d1a21dbcbc1c3694a523b0abb1e40012ae0c8c"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "0664ce2806b478d7be30b158598e9764a7984764e4df49deef74a1937e71d690"
+hash = "0a0298fddc884fcb69eb9b503e64528dd13e565b3f68a476e4e9d6e81bb6fa9f"
 
 [[files]]
 file = "mods/3dSkinLayers-forge-1.1.0.jar"
