@@ -449,6 +449,10 @@ file = "kubejs/README.txt"
 hash = "801703f280e4ff26fb4be02067cb583a79f7618bc0966b11d55b80492fddb56b"
 
 [[files]]
+file = "kubejs/assets/cookingforblockheads/lang/en_us.json"
+hash = "b0c92443f93b8b0eea6be2acc2c30b82fd8ac51670099d9a461861f69c8572e0"
+
+[[files]]
 file = "kubejs/assets/cookingforblockheads/textures/gui/jei_cow_jar.png"
 hash = "168891d40cc40a728a26ce3200bdbb53646c13e010b9ae864b5dbcca77f670de"
 
@@ -479,6 +483,10 @@ hash = "4c78c02678f2256a3a18cf6d6b72e97d368f6d0976d528de69de25d3bb0cca8e"
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
 hash = "db652843fca28f6ee814813940ad12fffc15c4b9113900285e5cafd9fa354b60"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/entity/cow/cow.png"
+hash = "32621e5c05aa47619ab79a5b32f9423ba95dccd36446dfe4bc5e5bffe814f966"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/intro/galaxy_team_logo.png"
