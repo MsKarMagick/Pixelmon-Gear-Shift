@@ -21,10 +21,10 @@ onEvent('item.tags', event => {
 
 function hasImprovement(item, key, minLevel){
     result = false;
-    if(item.item.isBroken(item.getItemStack())) return false;
+/*  if(item.item.isBroken(item.getItemStack())) return false;
     item.item.getMajorModules(item.getItemStack()).forEach(module =>{
         if(module.getImprovementLevel(item.getItemStack(), key) >= minLevel) result = true
-    })
+    })*/
     return result
 }
 
