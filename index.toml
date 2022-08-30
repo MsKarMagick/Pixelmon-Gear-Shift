@@ -593,6 +593,18 @@ file = "kubejs/data/create/recipes/compacting/origin_ore_block.json"
 hash = "8cea50d126e7efce46c9e7f1ba9998467128f58548a94c636bb12a670308fc5e"
 
 [[files]]
+file = "kubejs/data/create/recipes/crafting/kinetics/blaze_burner.json"
+hash = "b3fc87ebd7ee56600d980b2f728290c1d5443e96bc24cc9d25fa5ba5a2ebd09a"
+
+[[files]]
+file = "kubejs/data/create/recipes/crafting/kinetics/blaze_burner_upgrade.json"
+hash = "ead3043d8b6f62d6a0e87aa64b23c8729cd51b83f486b6ae85e8f59f544f3372"
+
+[[files]]
+file = "kubejs/data/create/recipes/crafting/kinetics/empty_blaze_burner.json"
+hash = "55a1408d515bc31e651f4b97e1eb5128d25a71b485c1ec814e5d1b0a7300dc3a"
+
+[[files]]
 file = "kubejs/data/create/recipes/crushing/armorite_ore_processing.json"
 hash = "d5207f46e95a0f9bc7aad8481edc7db9e144af4705cd66243a2cda88776705ce"
 
@@ -829,6 +841,26 @@ file = "kubejs/data/pixelmon/recipes/pixelmon_grass.json"
 hash = "0f13cb31b212c644e5402091eced59e2ac1f256e349c11506c2d0449e812b7ba"
 
 [[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/base/unprepared/unpressed_aluminium_base.json"
+hash = "5a55e8df1600e75e24c9d31ccfd55beaf9f4b9a60b6864d09f61dc4b0ebad76a"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/base/unprepared/unpressed_iron_base.json"
+hash = "8a04544ae1e9e73c3ea805b64b539e62ecc6fdd4ff755d13acd28b417099e936"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/base/unprepared/unpressed_platinum_base.json"
+hash = "228dea841384c8ae55d742216f08d6ad2e50cd97bdb0946c751fef8023345e4e"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/base/unprepared/unpressed_silver_base.json"
+hash = "f95258cf71b9a41344e427fcc9a79ccf86b84eb7d3251be2181a4491dee56e12"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/base/unprepared/unsanded_wooden_base.json"
+hash = "64fe2252f9eaf1112a15a842bfbc6b04eda8b7bdcefc276d7b5425e67596f23d"
+
+[[files]]
 file = "kubejs/data/pixelmon/recipes/potion.json"
 hash = "c585ab61d7caf809a0d8d84c371d3cdca40958410d7d3b75b5835bbabd4a75a8"
 
@@ -954,7 +986,7 @@ hash = "1d19134bcf89f3a59da55689e725136630aabab138d28ee1a04e50dc578790f8"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "34467c509dab2940bd3bb39b520d8b636208a985971444dad203fd4acc35aadf"
+hash = "a0677440198c69277e1d7d5d0c6600172ce0eaee31f3a57646d17c4775b702c2"
 
 [[files]]
 file = "mods/3dSkinLayers-forge-1.1.0.jar"
