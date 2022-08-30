@@ -1066,11 +1066,6 @@ hash = "88de9e0b66391586d0764e8fcca14bf6850a99ea030027bbf7946dafefcd0d5a"
 metafile = true
 
 [[files]]
-file = "mods/easy-villagers.pw.toml"
-hash = "f13114d58a036cb458e364bbb6528a5e878919d6299b7e9928401a705f8f921b"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "fbcae0ce3bb0041efc3f06807cc763dd3e86e5fa6dceba048f1fa984293b44be"
 metafile = true
@@ -1123,11 +1118,6 @@ metafile = true
 [[files]]
 file = "mods/grappling-hook-mod.pw.toml"
 hash = "b4466539ae85ddf37803b187d6914a46421bf37d5dc3464891426c0806c9087b"
-metafile = true
-
-[[files]]
-file = "mods/in-control.pw.toml"
-hash = "802cba450a7fbba6009d691b9d94a05149e4e069c9dac2c6458bd76369440fbc"
 metafile = true
 
 [[files]]

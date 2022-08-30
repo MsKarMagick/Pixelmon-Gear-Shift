@@ -38,6 +38,11 @@ onEvent('item.registry', event => {
 			f.fastToEat(false)
 			f.effect('minecraft:regeneration', 1, 3, 100)
 		 })
+	
+	event.create('unpressed_iron_base').displayName('Unpressed Iron Base')
+    event.create('unpressed_silver_base').displayName('Unpressed Silver Base')
+	event.create('unpressed_aluminium_base').displayName('Unpressed Aluminium Base')
+	event.create('unpressed_platinum_base').displayName('Unpressed Platinum Base')
 })
 
 // BLOCK REGISTRY EVENT
@@ -66,9 +71,6 @@ onEvent('item.modification', event => {
 			f.effect('minecraft:fire_resistance', 1, 45, 100)
 		 })
 	})*/
-	event.modify('cookingforblockheads:cow_jar', item => {
-		item.setDisplayName
-	})
   })
 
 // RECIPES EVENT
@@ -120,6 +122,7 @@ onEvent('recipes', event => {
 	event.remove({id:'computercraft:turtle_advanced'})
 	event.remove({id:'computercraft:turtle_advanced_upgrade'})
 	event.remove({id:'computercraft:turtle_normal'})
+	event.remove({id:'computercraft:pocket_computer_advanced_upgrade'})
 	event.remove({id:'computercraft:computer_advanced_upgrade'})
 	event.remove({id:'advancedperipherals:weak_automata_core'})
 	event.remove({id:'advancedperipherals:overpowered_weak_automata_core'})
