@@ -466,7 +466,7 @@ hash = "151a3d3479ccaa9c87558cbf5c6142842301fc2390d00732d69f1bc8192522b6"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/chicken_nugget_galactic.png"
-hash = "151a3d3479ccaa9c87558cbf5c6142842301fc2390d00732d69f1bc8192522b6"
+hash = "090854b2e432b7dd4fbecf9d32cafcee983bb710e7096d473e7e693fc9ae4939"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/chicken_nugget_raw.png"
@@ -481,12 +481,32 @@ file = "kubejs/assets/kubejs/textures/item/origin_ore.png"
 hash = "4c78c02678f2256a3a18cf6d6b72e97d368f6d0976d528de69de25d3bb0cca8e"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/unpressed_aluminium_base.png"
+hash = "d2c0e0b7a5695fa213ba7fe5c8b2808230f2ff56b3d8a33ce0821ddf777b3e66"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unpressed_iron_base.png"
+hash = "c1764984aaad182f55c079b029ab2fcf06b9dfc204ddb4207167df9a12c1b31e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unpressed_platinum_base.png"
+hash = "77e4593a9fba519c6446a2720033aa96fce5d2591b0caddc8342fc531a5bb592"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unpressed_silver_base.png"
+hash = "5fdc5628b53257aa5426da1022ebdbc2819484daebd660f6b973ac37a53bd4ab"
+
+[[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
 hash = "db652843fca28f6ee814813940ad12fffc15c4b9113900285e5cafd9fa354b60"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/entity/cow/cow.png"
 hash = "32621e5c05aa47619ab79a5b32f9423ba95dccd36446dfe4bc5e5bffe814f966"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/entity/enderdragon/dragon.png"
+hash = "358bdc5468fdf260a6790e0819b00f3b7e8213d1f093f3e64b536d0ff9551e31"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/intro/galaxy_team_logo.png"
@@ -934,7 +954,7 @@ hash = "8297e2c804b30c01425263fa21d1a21dbcbc1c3694a523b0abb1e40012ae0c8c"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "0a0298fddc884fcb69eb9b503e64528dd13e565b3f68a476e4e9d6e81bb6fa9f"
+hash = "34467c509dab2940bd3bb39b520d8b636208a985971444dad203fd4acc35aadf"
 
 [[files]]
 file = "mods/3dSkinLayers-forge-1.1.0.jar"
