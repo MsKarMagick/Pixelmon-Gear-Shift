@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "PBP",
+      "BFB",
+      "PBP"
+    ],
+    "key": {
+          "P": {
+        "item": "create:iron_sheet"
+      },
+          "B": {
+        "item": "minecraft:iron_bars"
+          },
+          "F": {
+        "item": "pixelmon:fire_stone_shard"
+          }
+     },
+    "result": {
+      "item": "create:empty_blaze_burner",
+      "count": 1
+    }
+  }
+  

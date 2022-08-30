@@ -36,13 +36,108 @@ onEvent('item.registry', event => {
 			f.meat(true)
 			f.alwaysEdible(true)
 			f.fastToEat(false)
-			f.effect('minecraft:regeneration', 1, 3, 100)
+			f.effect('minecraft:regeneration', 5, 3, 100)
+		 })
+
+		 event.create('lava_cookie_sugar')
+	     .displayName('Powdered Lava Cookie')
+		 .food(f => {
+			f.hunger(5)
+			f.saturation(0.2)
+			f.meat(false)
+			f.alwaysEdible(true)
+			f.fastToEat(true)
+			f.effect('minecraft:speed', 25, 5, 100)
+		 })
+
+		 event.create('lava_cookie_chocolate')
+	     .displayName('Choco-Dipped Lava Cookie')
+		 .food(f => {
+			f.hunger(5)
+			f.saturation(0.2)
+			f.meat(false)
+			f.alwaysEdible(true)
+			f.fastToEat(true)
+			f.effect('minecraft:instant_health', 1, 1, 100)
+		 })
+
+		 event.create('lava_cookie_chocolate_black')
+	     .displayName('Dark Lava Cookie')
+		 .food(f => {
+			f.hunger(5)
+			f.saturation(0.2)
+			f.meat(false)
+			f.alwaysEdible(true)
+			f.fastToEat(true)
+			f.effect('minecraft:resistance', 25, 3, 100)
+		 })
+
+		 event.create('lava_cookie_chocolate_ruby')
+	     .displayName('Ruby Lava Cookie')
+		 .food(f => {
+			f.hunger(5)
+			f.saturation(0.2)
+			f.meat(false)
+			f.alwaysEdible(true)
+			f.fastToEat(true)
+			f.effect('minecraft:regeneration', 10, 1, 100)
+		 })
+
+		 event.create('lava_cookie_chocolate_white')
+	     .displayName('White Chocolate Lava Cookie')
+		 .food(f => {
+			f.hunger(5)
+			f.saturation(0.2)
+			f.meat(false)
+			f.alwaysEdible(true)
+			f.fastToEat(true)
+			f.effect('minecraft:jump_boost', 30, 3, 100)
+		 })
+
+		 event.create('lava_cookie_caramel')
+	     .displayName('Caramel Lava Cookie')
+		 .food(f => {
+			f.hunger(5)
+			f.saturation(0.2)
+			f.meat(false)
+			f.alwaysEdible(true)
+			f.fastToEat(true)
+			f.effect('minecraft:strength', 25, 1, 100)
+		 })
+
+		 event.create('lava_cookie_honey')
+	     .displayName('Honey Lava Cookie')
+		 .food(f => {
+			f.hunger(5)
+			f.saturation(0.2)
+			f.meat(false)
+			f.alwaysEdible(true)
+			f.fastToEat(true)
+			f.effect('minecraft:night_vision', 60, 1, 100)
+		 })
+
+		 event.create('lava_cookie_smores')
+	     .displayName('Lava Cookie Smores')
+		 .food(f => {
+			f.hunger(5)
+			f.saturation(0.2)
+			f.meat(false)
+			f.alwaysEdible(true)
+			f.fastToEat(true)
+			f.effect('minecraft:luck', 5, 3, 100)
 		 })
 	
+	//Pixelmon Ball related items
+	//Bases
 	event.create('unpressed_iron_base').displayName('Unpressed Iron Base')
     event.create('unpressed_silver_base').displayName('Unpressed Silver Base')
 	event.create('unpressed_aluminium_base').displayName('Unpressed Aluminium Base')
 	event.create('unpressed_platinum_base').displayName('Unpressed Platinum Base')
+	event.create('unsanded_wooden_base').displayName('Unsanded Wooden Base')
+    //Plates
+	event.create('silver_plate').displayName('Silver Plate')
+	event.create('platinum_plate').displayName('Platinum Plate')
+
 })
 
 // BLOCK REGISTRY EVENT

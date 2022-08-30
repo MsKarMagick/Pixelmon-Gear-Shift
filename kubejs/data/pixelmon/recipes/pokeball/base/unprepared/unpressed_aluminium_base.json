@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "P P",
+      " P "
+    ],
+    "key": {
+          "P": {
+        "item": "pixelmon:aluminium_plate"
+      }
+     },
+    "result": {
+      "item": "kubejs:unpressed_aluminium_base",
+      "count": 5
+    }
+  }
+  

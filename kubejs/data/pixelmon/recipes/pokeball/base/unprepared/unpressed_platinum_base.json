@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "P P",
+      " P "
+    ],
+    "key": {
+          "P": {
+        "item": "kubejs:platinum_plate"
+      }
+     },
+    "result": {
+      "item": "kubejs:unpressed_platinum_base",
+      "count": 5
+    }
+  }
+  

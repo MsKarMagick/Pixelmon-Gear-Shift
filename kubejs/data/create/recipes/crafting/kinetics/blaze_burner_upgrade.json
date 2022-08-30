@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "FFF",
+      "FCF",
+      "FFF"
+    ],
+    "key": {
+          "C": {
+        "item": "create:empty_blaze_burner"
+          },
+          "F": {
+        "item": "pixelmon:fire_stone_shard"
+          }
+     },
+    "result": {
+      "item": "create:blaze_burner",
+      "count": 1
+    }
+  }
+  
