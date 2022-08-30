@@ -1286,11 +1286,6 @@ hash = "ab4b4df0fe91e7af8b42f85957cd2c08a678ca9c70f8ea6cf8a5cccdd64a35be"
 metafile = true
 
 [[files]]
-file = "mods/pixelmon-information.pw.toml"
-hash = "8c244a02183b7dabe21205ad5ce07020f06a93516dc3f9d111754ffab7640527"
-metafile = true
-
-[[files]]
 file = "mods/pixelmon.pw.toml"
 hash = "e2a6e552fc89cc65bc1824d3c511aa99a5d114a7d666bd67816a7b962d904f95"
 metafile = true
