@@ -1,0 +1,38 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "minecraft:sand"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:clay_ball",
+        "chance": 0.25
+      },
+      {
+        "item": "pixelmon:covered_fossil_14",
+        "chance": 0.00005
+      },
+      {
+        "item": "pixelmon:covered_fossil_7",
+        "chance": 0.00005
+      },
+      {
+        "item": "pixelmon:covered_fossil_6",
+        "chance": 0.00005
+      },
+      {
+        "item": "pixelmon:covered_fossil_4",
+        "chance": 0.00005
+      },
+      {
+        "item": "pixelmon:covered_fossil_3",
+        "chance": 0.00005
+      },
+      {
+        "item": "pixelmon:covered_fossil_0",
+        "chance": 0.00005
+      }
+    ]
+  }

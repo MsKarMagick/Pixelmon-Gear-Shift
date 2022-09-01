@@ -1,0 +1,55 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "minecraft:gravel"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:flint",
+        "chance": 0.25
+      },
+      {
+        "item": "minecraft:iron_nugget",
+        "chance": 0.125
+      },
+      {
+        "item": "pixelmon:covered_fossil_1",
+        "chance": 0.00005
+      },
+      {
+        "item": "pixelmon:covered_fossil_2",
+        "chance": 0.00005
+      },
+      {
+        "item": "pixelmon:covered_fossil_5",
+        "chance": 0.00005
+      },
+      {
+        "item": "pixelmon:covered_fossil_8",
+        "chance": 0.00005
+      },
+      {
+        "item": "pixelmon:covered_fossil_9",
+        "chance": 0.00005
+      },
+      {
+        "item": "pixelmon:covered_fossil_10",
+        "chance": 0.00005
+      },
+      {
+        "item": "pixelmon:covered_fossil_11",
+        "chance": 0.00005
+      },
+      {
+        "item": "pixelmon:covered_fossil_12",
+        "chance": 0.00005
+      },
+      {
+        "item": "pixelmon:covered_fossil_13",
+        "chance": 0.00005
+      }
+      
+    ]
+  }
