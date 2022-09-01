@@ -445,6 +445,14 @@ file = "config/yungsbridges-forge-1_16.toml"
 hash = "06889a69ef9b96eee64266286d20dc2d203369e7d94be7e0fd5f48db801ca066"
 
 [[files]]
+file = "defaultconfigs/backpacked-server.toml"
+hash = "9505023f3324aafa6b2e070e5b339fed1ae2950ed6c5412fca1867552f99a4ad"
+
+[[files]]
+file = "defaultconfigs/camera-server.toml"
+hash = "b305850c70a1c83eedf52e4d705bda40e28359467ba14050bcd3fcd7d4493bd7"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "801703f280e4ff26fb4be02067cb583a79f7618bc0966b11d55b80492fddb56b"
 
@@ -473,6 +481,106 @@ file = "kubejs/assets/kubejs/textures/item/chicken_nugget_raw.png"
 hash = "a6eee3538678d313c6e7e2ce4f77e8f09e420984ed3699d6adb1b0123107e27e"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_dive.png"
+hash = "09cc9db39dac26cac22edbdf95505cf5265f3efeaacff72e7946f4f7b12adfa8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_dusk.png"
+hash = "6fe8e91aa74dc2a9f0f7d48f919e805c6fa8a5a985fbe0e4d6ad70ccba579908"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_fast.png"
+hash = "ac6780a5db3135b64ab09cd650b6d858ed17f0d75e19dbbb526a9c2c6f3f646d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_friend.png"
+hash = "4d76cb2d274349d955240e47362f596c4a9646aa2ad2d6c820985a4a688840e0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_great.png"
+hash = "3d5f31680f0504b18c49f8f15591cf9e7d06365f8e1c77f3fe6300b5daa70ca3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_heal.png"
+hash = "7f54ffe716e420db4925078ad5dee6592d7fb02b2411d6e96a1f2947110c52b7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_heavy.png"
+hash = "20b693a28f8f269e1380e200ed7420c0203b43e5f716ed77287bd767dea94932"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_level.png"
+hash = "08eabf50db9586547f71fcc5fd69f6aa6c7b71d7e74147241da4d5eddfaad0eb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_love.png"
+hash = "0ba3a66d2775fe37e775144386ef5d577afd6253c37161bb1c6aa501cec57dd9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_lure.png"
+hash = "05fab7d86b0d569c3aee583454c310bd55426ff264cb1f7c910ee9678cebfeb3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_luxury.png"
+hash = "98276a9eeff3b576a1e18e558a7ac12a6e68c87ee706412eaa385dd184feb1ed"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_moon.png"
+hash = "852b84ea2ff7803cf88ed50cff5b7d26ad6fea0ac774945b3cf00c2f9ad903c1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_net.png"
+hash = "f8423f44414ca9ad71f01b8d51c51c3dd9aaad5f24505da77fda670f95af1bcd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_poke.png"
+hash = "89c250107316832d062994d1eb86a7eb975e90fb6f4eb473e1419853936838b3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_premier.png"
+hash = "eaaea8b8fcf24465db9d18ef0f00cce38c137d076f43c0bbefb481ef2444a391"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_quick.png"
+hash = "915b762db79113c1a6b1c4185277b1805c6603b883fe4f47cc9e2cfb740d0172"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_repeat.png"
+hash = "34ef839c7641d558071fd49af7a010b388c3026fa1b9afa3e6159b66937d044b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_safari.png"
+hash = "242e90bcf0586ec439fe5bbbe6da203d9d578438da48a591eae6878c3d890e58"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_sport.png"
+hash = "ee5d4c79751c456d1161ae9e432ebf86dce10b41ac0da544f585ccbc798fd273"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_timer.png"
+hash = "49672287e06b008a1fa9b19026607b0fa67b9e296d8cd22ad739936ad50fabc0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_ultra.png"
+hash = "3d3919285342d1d36d2a5ac5735fa5ef2ddab58bd6d4f61807305235eec093c6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_base_aluminium.png"
+hash = "edcda907f61b5831826f1b86d0956a01f92c068a8da656069d0a1a51c84415db"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_base_iron.png"
+hash = "14a72d8b302f722a2299bf7d27bc7fccfccbb435f68a2d4f252100ad6f21139d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_base_platinum.png"
+hash = "3ed3c724f21b27f0a11fff606cb4cc6c428b3e1a1edcab1d0ec29b9eb4df3f8d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_base_silver.png"
+hash = "4180565c64524239153696a0c9eef03f284ad2790858d3409a3474625ce81aa9"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/origin_hoe.png"
 hash = "7ca4e57f0aacfc0c61bc74a642adb221fe008300fbf0b8df1905d1c237b4183e"
 
@@ -481,20 +589,20 @@ file = "kubejs/assets/kubejs/textures/item/origin_ore.png"
 hash = "4c78c02678f2256a3a18cf6d6b72e97d368f6d0976d528de69de25d3bb0cca8e"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/unpressed_aluminium_base.png"
-hash = "d2c0e0b7a5695fa213ba7fe5c8b2808230f2ff56b3d8a33ce0821ddf777b3e66"
+file = "kubejs/assets/kubejs/textures/item/sheet_aluminium.png"
+hash = "cf40cdda310862015a48194af5142eb3bbd8158a8f737aa5ee4bd8034821eadd"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/unpressed_iron_base.png"
-hash = "c1764984aaad182f55c079b029ab2fcf06b9dfc204ddb4207167df9a12c1b31e"
+file = "kubejs/assets/kubejs/textures/item/sheet_platinum.png"
+hash = "fc59d966cf7ac7500ce7e9d9a06cffe4c1d4ed25142ce853bfacb1533ba1ddda"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/unpressed_platinum_base.png"
-hash = "77e4593a9fba519c6446a2720033aa96fce5d2591b0caddc8342fc531a5bb592"
+file = "kubejs/assets/kubejs/textures/item/sheet_silver.png"
+hash = "e55fb77cc2eefb622e1ffa7087b890b44efcb72aa2b6e7a583f8f2fd22c55ca5"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/unpressed_silver_base.png"
-hash = "5fdc5628b53257aa5426da1022ebdbc2819484daebd660f6b973ac37a53bd4ab"
+file = "kubejs/assets/kubejs/textures/item/unsanded_wooden_base.png"
+hash = "d9345baff4f2db37a30aca20bcc1e3e90d50b51e94b1c48e7d7c6365820aa0c3"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
@@ -665,8 +773,16 @@ file = "kubejs/data/create/recipes/pressing/rabbit_hide.json"
 hash = "851aa3542d9506552e4e85ea9fdd12e10c891ada727301ffbabe3b0ca47af99c"
 
 [[files]]
+file = "kubejs/data/create/recipes/splashing/gravel.json"
+hash = "64b8b5a4d2cc4ebb4f49706a6756f68db0f9795fbcde6c259076c8a48c659a84"
+
+[[files]]
 file = "kubejs/data/create/recipes/splashing/ice.json"
 hash = "67de76ca8107d815d46211531c3f013e50205990d55a7bffa6ad0690b2dc4c15"
+
+[[files]]
+file = "kubejs/data/create/recipes/splashing/sand.json"
+hash = "e723c0b9e00d5e7e86ba70b44f196d67d1084bd609e4fa638470bb6fbce9d332"
 
 [[files]]
 file = "kubejs/data/forge/tags/items/dragon_related.json"
@@ -751,6 +867,66 @@ hash = "e13b059331689d41ee431d42d116d381234f7c86626613f05ef640af2c60339c"
 [[files]]
 file = "kubejs/data/pixelmon/recipes/fishing_log.json"
 hash = "66059fd06f8763eff45870b386ce4812a5c3ab72f9b60dbffedb2814e5cd0693"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_0_helix.json"
+hash = "8bcc4ddfce6139335762f88b41cd173c9e1df5b18f2f46878fa6399fe3943142"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_10_sail.json"
+hash = "71bcd09d4456558f6615f181499e82f9c76dc21a65ea7b8764a4247b985e56df"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_11_bird.json"
+hash = "299a7ded75a8b54d9fdc9d32f96575222a6cf3baad405d4990166c6395e59ce2"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_12_dino.json"
+hash = "56c317ca8c8e882ddb1c7aa7322c237badb525cc4705487b3301197b82eb3fdf"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_13_drake.json"
+hash = "fbeddd4f7576e31c61d2008db8c0d4ca3a14c31d2b6fb573245a48c4200dc290"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_14_fish.json"
+hash = "e7179297c53b10aae3edfefc3397570fcfc0d891431286638b3ded5e69d9358c"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_1_dome.json"
+hash = "ef9cc79cde016ba1caafedbb77faa01a0c542e87657471a4ed9fbdaeee861005"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_2_amber.json"
+hash = "ed7f5da835ece3769e3ef8afae9cc866a7a1e8bb0b18ef3d0d6a7782e8616b44"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_3_root.json"
+hash = "c1887a289ee8e5b8a731dd8dd4647069dfc19824567352cf117d88d6fcd18e9d"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_4_claw.json"
+hash = "d2a69e368c5db0faabd2c17398adef26d0a309215062751db0bdd104d9e2b70e"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_5_skull.json"
+hash = "b8c1bff88b6c45d2563027723168a00320115b3b3b9a1ebfcaaabb16fa94ccb1"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_6_armor.json"
+hash = "afe3753859bf737d2130d56f2e3f812dac17dd8330fb0bb6a5f8773a410f1e85"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_7_cover.json"
+hash = "5154ff6220623ffeb1e0562d3b2ba2a39c9eb7ac3b94c7d36855a5cf7309bb95"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_8_plume.json"
+hash = "14926831e6f5bd71c66c93676feef3f9708ea15da1509a81f17829bdd08fe362"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/fossils/splashing/fossil_9_jaw.json"
+hash = "d75e665cd968fb90c17015fd0f6c66fbbd914cc96c8948e956560d314974b46f"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/full_heal.json"
@@ -986,7 +1162,7 @@ hash = "1d19134bcf89f3a59da55689e725136630aabab138d28ee1a04e50dc578790f8"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "a0677440198c69277e1d7d5d0c6600172ce0eaee31f3a57646d17c4775b702c2"
+hash = "eebb089fd4f0af893ede2827b5ce4227b12a9cb209407fdfcc7336df84a1f4ab"
 
 [[files]]
 file = "mods/3dSkinLayers-forge-1.1.0.jar"
