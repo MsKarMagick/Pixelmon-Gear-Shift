@@ -1510,7 +1510,7 @@ metafile = true
 
 [[files]]
 file = "mods/pixelmon.pw.toml"
-hash = "e2a6e552fc89cc65bc1824d3c511aa99a5d114a7d666bd67816a7b962d904f95"
+hash = "64c0009eb0738f509cec1077aac9190c37db1de1e5465deaf046a8e924ad7df9"
 metafile = true
 
 [[files]]
