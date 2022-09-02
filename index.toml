@@ -469,6 +469,10 @@ file = "kubejs/assets/kubejs/textures/block/origin_ore_block.png"
 hash = "36ad845e04b1c945cccf0deba0a0c76ffcb2cf732933e8a12b6c8ea0cee99071"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/beast_base.png"
+hash = "bc69864a1ce3633cc1353360442b25842b6f4dd6e4f048773dd662ede9034a47"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/chicken_nugget.png"
 hash = "151a3d3479ccaa9c87558cbf5c6142842301fc2390d00732d69f1bc8192522b6"
 
@@ -479,6 +483,10 @@ hash = "090854b2e432b7dd4fbecf9d32cafcee983bb710e7096d473e7e693fc9ae4939"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/chicken_nugget_raw.png"
 hash = "a6eee3538678d313c6e7e2ce4f77e8f09e420984ed3699d6adb1b0123107e27e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_beast.png"
+hash = "bb2422c6155127f259e0cfba16f87fd8dc73f35858e6524ba908ba63837011ad"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/disc_ball_dive.png"
@@ -527,6 +535,10 @@ hash = "98276a9eeff3b576a1e18e558a7ac12a6e68c87ee706412eaa385dd184feb1ed"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/disc_ball_moon.png"
 hash = "852b84ea2ff7803cf88ed50cff5b7d26ad6fea0ac774945b3cf00c2f9ad903c1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/disc_ball_nest.png"
+hash = "b6ec755dbaf104de9e490e1bf9e4cd07aec5db3b3755106ade1d0fec075a3a4e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/disc_ball_net.png"
@@ -657,6 +669,22 @@ file = "kubejs/assets/pixelmon/textures/items/curry/ingredients/gigantamix.png"
 hash = "d84cd2c890b6820edb73d943bbd0699c8d504693b8373c582365e70182994de3"
 
 [[files]]
+file = "kubejs/assets/pixelmon/textures/items/pokeballs/aluminumbase.png"
+hash = "e15cdfbfcdba5f7a9484805db1323679f6920d70df410a4b1d597927308d6154"
+
+[[files]]
+file = "kubejs/assets/pixelmon/textures/items/pokeballs/ironbase.png"
+hash = "e395826877b229dc155f8ae5192ea0d7a45210fdf399bd2e3bf1be9a27f5a229"
+
+[[files]]
+file = "kubejs/assets/pixelmon/textures/items/pokeballs/platinumbase.png"
+hash = "d3622d79a2ef647860a35d668cda457db656151f7254716e7b240a502b850782"
+
+[[files]]
+file = "kubejs/assets/pixelmon/textures/items/pokeballs/silverbase.png"
+hash = "7ea43f7dd6b40b713970ea7028a8acd2654169c9e4e7d8b994a890e45fe5d06d"
+
+[[files]]
 file = "kubejs/assets/tetra/lang/en_us.json"
 hash = "e0673e330435e9c74bce985168182229c49bd6d333e82e29c2c59d8309abb31e"
 
@@ -753,6 +781,10 @@ file = "kubejs/data/create/recipes/mixing/rotten_flesh.json"
 hash = "01c0ed4d83c5a07379ac81477af2501f574a114c1ab37e2921d817ee469fb369"
 
 [[files]]
+file = "kubejs/data/create/recipes/mixing/sponge.json"
+hash = "5327b10047668d939a69a1f0bbfe9ea8b46275066cbf2bcbbaea6869c7b83a58"
+
+[[files]]
 file = "kubejs/data/create/recipes/picking/emerald_from_prismarine_picking.json"
 hash = "47bf97926e830bca70b6a27efe433bb74f7bb310ca3cefc609939674eccc6ad6"
 
@@ -789,12 +821,40 @@ file = "kubejs/data/forge/tags/items/dragon_related.json"
 hash = "7ea6d7a277362218a9fc8ec9218db30294bb7df6cbef039ac45233d30566269e"
 
 [[files]]
+file = "kubejs/data/forge/tags/items/plates.json"
+hash = "4149ce9a6551975b069d09b5b5e8ff9f6b56f48f512a7262418f79f6f428396f"
+
+[[files]]
+file = "kubejs/data/forge/tags/items/plates/aluminium.json"
+hash = "24ed61bd4a5a0729869c0fa6b2f911310e7cc6f88be61fba39d816fd31848b32"
+
+[[files]]
+file = "kubejs/data/forge/tags/items/plates/platinum.json"
+hash = "0508c7ab4b0265f132ab0a844c19cfc01e101e1695adf6bbd0bd2d6fe0f44224"
+
+[[files]]
+file = "kubejs/data/forge/tags/items/plates/silver.json"
+hash = "d81c118ee72a23bd72cab66fd3313da6757c54f900044d809b07f6da2c2b9e50"
+
+[[files]]
 file = "kubejs/data/forge/tags/items/raw_meats.json"
 hash = "321934be501a14e759e06fb9eab34f6d47a5e0d5c4c49fe5f40d64c255e5df95"
 
 [[files]]
+file = "kubejs/data/kubejs/recipes/sheet_aluminium.json"
+hash = "458e2b64f8144d9e0f8a154a5d6a20a333280a041e9a02b2827f1e049ab96982"
+
+[[files]]
+file = "kubejs/data/kubejs/recipes/sheet_platinum.json"
+hash = "83d6ed10c3546b98a457a4656265cc7fc1878ea85b603f9bfb20a3ab6d83726c"
+
+[[files]]
+file = "kubejs/data/kubejs/recipes/sheet_silver.json"
+hash = "3c9bbbc28dd6502158f69e644ec23da83eb135d074b7d83f10bbcf7087798ec5"
+
+[[files]]
 file = "kubejs/data/minecraft/recipes/blaze_rod.json"
-hash = "2991985f118abc92ba7f92482125cc4b59c89e86685b6dcec84c26b7995c347c"
+hash = "b1ff9b44e7239b90e218c8999fb9547ef5e4276bb4ec1f34b75f7bcb260d1b28"
 
 [[files]]
 file = "kubejs/data/minecraft/recipes/bone.json"
@@ -819,6 +879,10 @@ hash = "24dbfd750a72f74ab46da750b6a270a5d6d02616e6ec8b08f0bd0506cffa8860"
 [[files]]
 file = "kubejs/data/minecraft/recipes/gunpowder.json"
 hash = "408124f29891ae04cbf45bece11eb801179656b6ea68eb64ade550d422600f6b"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/magma_cream_alt.json"
+hash = "1e973d2bbd6e1816a8c8264329a087d02ce3cf691fc5def907a2500fde0ac699"
 
 [[files]]
 file = "kubejs/data/minecraft/recipes/phantom_membrane.json"
@@ -847,6 +911,10 @@ hash = "0e738c804711671c668bee15b0710dd1971622eeaa4becad6ac78b9b0e43466c"
 [[files]]
 file = "kubejs/data/minecraft/recipes/zombie_head.json"
 hash = "9cf96940a361f403546060e98804cca07953252267f9c907d4404a3a5ffbac60"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/equipment/film.json"
+hash = "60a9227e1551dfa3ed046b7b18bb9170feb93779792047a8757a01aa234f62ed"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/equipment/item_finder.json"
@@ -1017,6 +1085,22 @@ file = "kubejs/data/pixelmon/recipes/pixelmon_grass.json"
 hash = "0f13cb31b212c644e5402091eced59e2ac1f256e349c11506c2d0449e812b7ba"
 
 [[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/base/aluminum_base.json"
+hash = "03b83b291de18f29171a4041fd32f83cd498c0f232062942655dff21b3af99b2"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/base/iron_base.json"
+hash = "cd36184d652f4646d8152171116dff27c4d8d058bd3cf4f9c2bf5b7b1e2de5a6"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/base/platinum_base.json"
+hash = "ee76ba33a4bc708f09663c376595100d8d40c0f411c18a289f172fdd509e5603"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/base/silver_base.json"
+hash = "8882a3c543bb64dd3b10e391ec7e0b3073a31f670ca200f8e3c900894a3df4c0"
+
+[[files]]
 file = "kubejs/data/pixelmon/recipes/pokeball/base/unprepared/unpressed_aluminium_base.json"
 hash = "5a55e8df1600e75e24c9d31ccfd55beaf9f4b9a60b6864d09f61dc4b0ebad76a"
 
@@ -1162,7 +1246,7 @@ hash = "1d19134bcf89f3a59da55689e725136630aabab138d28ee1a04e50dc578790f8"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "eebb089fd4f0af893ede2827b5ce4227b12a9cb209407fdfcc7336df84a1f4ab"
+hash = "bf8c4fd787dd766c62e1f396339529032b365dad05fe175b4750f99bb4e7dc69"
 
 [[files]]
 file = "mods/3dSkinLayers-forge-1.1.0.jar"
