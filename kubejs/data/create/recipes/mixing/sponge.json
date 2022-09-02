@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "supplementaries:flax_block"
+      },
+      {
+        "tag": "forge:paper"
+      },
+      {
+        "fluid": "minecraft:water",
+        "amount": 250
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:sponge",
+        "count": 1
+      }
+    ],
+    "heatRequirement": "heated"
+  }

@@ -1,0 +1,94 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "tag": "forge:plates/platinum"
+    },
+    "transitionalItem": {
+      "item": "kubejs:disc_base_platinum"
+    },
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "kubejs:disc_base_platinum"
+          },
+          {
+            "item": "create:iron_sheet"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:disc_base_platinum"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "kubejs:disc_base_platinum"
+          },
+          {
+            "item": "kubejs:sheet_silver"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:disc_base_platinum"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "kubejs:disc_base_platinum"
+          },
+          {
+            "item": "minecraft:redstone"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:disc_base_platinum"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "kubejs:disc_base_platinum"
+          },
+          {
+            "item": "minecraft:iron_nugget"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:disc_base_platinum"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "kubejs:disc_base_platinum"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:disc_base_platinum"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "item": "pixelmon:platinum_base"
+      }
+    ],
+    "loops": 1
+  }

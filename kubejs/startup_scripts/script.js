@@ -132,14 +132,15 @@ onEvent('item.registry', event => {
 	
 	//Pixelmon Ball related items
 	//Base Discs
-	event.create('disc_base_iron').displayName('Iron Disc')
-    event.create('disc_base_silver').displayName('Silver Disc')
-	event.create('disc_base_aluminium').displayName('Aluminium Disc')
-	event.create('disc_base_platinum').displayName('Platinum Disc')
+	event.create('disc_base_iron').displayName('Iron Disc').type('create:sequenced_assembly')
+    event.create('disc_base_silver').displayName('Silver Disc').type('create:sequenced_assembly')
+	event.create('disc_base_aluminium').displayName('Aluminium Disc').type('create:sequenced_assembly')
+	event.create('disc_base_platinum').displayName('Platinum Disc').type('create:sequenced_assembly')
+	event.create('disc_ball_beast').displayName('Beast Ball Component').type('create:sequenced_assembly')
 	event.create('unsanded_wooden_base').displayName('Unsanded Wooden Base')
 
-	//Lid Discs
-	event.create('disc_ball_beast').displayName('Beast Ball Disc')
+	//Lid Discs + Bases
+	event.create('beast_base').displayName('Beast Ball Base')
     event.create('disc_ball_dive').displayName('Dive Ball Disc')
 	event.create('disc_ball_dusk').displayName('Dusk Ball Disc')
 	event.create('disc_ball_fast').displayName('Fast Ball Disc')
@@ -166,14 +167,6 @@ onEvent('item.registry', event => {
 	event.create('sheet_silver').displayName('Silver Sheet')
 	event.create('sheet_platinum').displayName('Platinum Sheet')
 	event.create('sheet_aluminium').displayName('Aluminium Sheet')
-
-	//Unfinished Tests
-	event.create('unfinished_ball_ultra').type('create:sequenced_assembly').displayName('Unassembled Ultra Ball')
-	event.create('unfinished_lid_ultra').type('create:sequenced_assembly').displayName('Unshaped Ultra Ball Lid')
-	  
-
-
-
 })
 
 // BLOCK REGISTRY EVENT
@@ -260,4 +253,10 @@ onEvent('recipes', event => {
 	event.remove({id:'advancedperipherals:overpowered_end_automata_core'})
 	event.remove({id:'advancedperipherals:overpowered_husbandry_automata_core'})
 	event.remove({id:'advancedperipherals:chunk_controller'})
+
+	//Duplicate Zinc Sheet Remove
+	event.remove({id:'minecraft:pressing/zinc_sheet'})
+
+	//Bone > Bonemeal smelting Remove
+	event.remove({id:'quark:tweaks/smelting/bone_meal_utility'})
 })

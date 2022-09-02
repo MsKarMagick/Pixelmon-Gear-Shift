@@ -1,0 +1,62 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "tag": "forge:plates/aluminium"
+    },
+    "transitionalItem": {
+      "item": "kubejs:disc_base_aluminium"
+    },
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "kubejs:disc_base_aluminium"
+          },
+          {
+            "item": "minecraft:redstone"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:disc_base_aluminium"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "kubejs:disc_base_aluminium"
+          },
+          {
+            "item": "minecraft:iron_nugget"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:disc_base_aluminium"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "kubejs:disc_base_aluminium"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:disc_base_aluminium"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "item": "pixelmon:aluminum_base"
+      }
+    ],
+    "loops": 1
+  }

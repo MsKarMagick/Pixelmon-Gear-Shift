@@ -1,0 +1,78 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "tag": "forge:plates/silver"
+    },
+    "transitionalItem": {
+      "item": "kubejs:disc_base_silver"
+    },
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "kubejs:disc_base_silver"
+          },
+          {
+            "item": "create:iron_sheet"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:disc_base_silver"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "kubejs:disc_base_silver"
+          },
+          {
+            "item": "minecraft:redstone"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:disc_base_silver"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "kubejs:disc_base_silver"
+          },
+          {
+            "item": "minecraft:iron_nugget"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:disc_base_silver"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "kubejs:disc_base_silver"
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:disc_base_silver"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "item": "pixelmon:silver_base"
+      }
+    ],
+    "loops": 1
+  }
