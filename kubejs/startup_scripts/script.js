@@ -177,7 +177,7 @@ onEvent('block.registry', event => {
 	     .hardness(5.0)
 		 .resistance(1200)
 		 .displayName('§6Block of Origin Ore§r')
-		 .harvestTool('pickaxe')
+		 .harvestTool('pickaxe', 1)
 		 .tagBlock('minecraft:mineable/pickaxe')
 		 .fullBlock(1)
 		 .renderType('solid')
@@ -259,4 +259,7 @@ onEvent('recipes', event => {
 
 	//Bone > Bonemeal smelting Remove
 	event.remove({id:'quark:tweaks/smelting/bone_meal_utility'})
+
+	//Bauxite requires Blasting
+	event.remove({id:'pixelmon:furnace/bauxite_ore'})
 })

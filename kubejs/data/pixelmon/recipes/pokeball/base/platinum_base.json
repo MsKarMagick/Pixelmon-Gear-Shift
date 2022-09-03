@@ -14,7 +14,7 @@
             "item": "kubejs:disc_base_platinum"
           },
           {
-            "item": "create:iron_sheet"
+            "item": "kubejs:sheet_silver"
           }
         ],
         "results": [
@@ -30,7 +30,7 @@
             "item": "kubejs:disc_base_platinum"
           },
           {
-            "item": "kubejs:sheet_silver"
+            "item": "create:iron_sheet"
           }
         ],
         "results": [

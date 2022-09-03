@@ -1,0 +1,18 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "create:limesand"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:prismarine_shard",
+        "chance": 0.001
+      },
+      {
+        "item": "minecraft:prismarine_crystals",
+        "chance": 0.0005
+      }
+    ]
+  }
