@@ -813,6 +813,10 @@ file = "kubejs/data/create/recipes/splashing/ice.json"
 hash = "67de76ca8107d815d46211531c3f013e50205990d55a7bffa6ad0690b2dc4c15"
 
 [[files]]
+file = "kubejs/data/create/recipes/splashing/limesand.json"
+hash = "d3a987a5bf09ffa0cbf68f4d6865804eb4ecf9c5b28edc4a9b996730e284cf7f"
+
+[[files]]
 file = "kubejs/data/create/recipes/splashing/sand.json"
 hash = "e723c0b9e00d5e7e86ba70b44f196d67d1084bd609e4fa638470bb6fbce9d332"
 
@@ -1094,31 +1098,187 @@ hash = "cd36184d652f4646d8152171116dff27c4d8d058bd3cf4f9c2bf5b7b1e2de5a6"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/pokeball/base/platinum_base.json"
-hash = "ee76ba33a4bc708f09663c376595100d8d40c0f411c18a289f172fdd509e5603"
+hash = "ca6b1e97f2a32f1ef55020e065bd272ed3857fc82b04a2a58eeb8fadb8790f55"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/pokeball/base/silver_base.json"
 hash = "8882a3c543bb64dd3b10e391ec7e0b3073a31f670ca200f8e3c900894a3df4c0"
 
 [[files]]
-file = "kubejs/data/pixelmon/recipes/pokeball/base/unprepared/unpressed_aluminium_base.json"
-hash = "5a55e8df1600e75e24c9d31ccfd55beaf9f4b9a60b6864d09f61dc4b0ebad76a"
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/dive_ball_lid.json"
+hash = "021eb2c8a08d1f061e80bfbef771a6a1c69e5a389b42d6ceb8571c4cee0452cb"
 
 [[files]]
-file = "kubejs/data/pixelmon/recipes/pokeball/base/unprepared/unpressed_iron_base.json"
-hash = "8a04544ae1e9e73c3ea805b64b539e62ecc6fdd4ff755d13acd28b417099e936"
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/dusk_ball_lid.json"
+hash = "d9cd4002801ac9fd4cbbd7ff3afc673e7333fed6710ca968d546737a14b6d8a9"
 
 [[files]]
-file = "kubejs/data/pixelmon/recipes/pokeball/base/unprepared/unpressed_platinum_base.json"
-hash = "228dea841384c8ae55d742216f08d6ad2e50cd97bdb0946c751fef8023345e4e"
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/fast_ball_lid.json"
+hash = "6bc2c229ab045660d68b8f7abf3261fec6b9b0e514e85bd310d2adc4c5a55cd3"
 
 [[files]]
-file = "kubejs/data/pixelmon/recipes/pokeball/base/unprepared/unpressed_silver_base.json"
-hash = "f95258cf71b9a41344e427fcc9a79ccf86b84eb7d3251be2181a4491dee56e12"
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/friend_ball_lid.json"
+hash = "1728954ca19a0507bb15edb490402b36440e5f7d2ec6e3487db0a04f5d209039"
 
 [[files]]
-file = "kubejs/data/pixelmon/recipes/pokeball/base/unprepared/unsanded_wooden_base.json"
-hash = "64fe2252f9eaf1112a15a842bfbc6b04eda8b7bdcefc276d7b5425e67596f23d"
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/great_ball_lid.json"
+hash = "6deffc0e5697851a671798dc16b9d0ad5e3ec7a74acf46e211633007895c5e86"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/heal_ball_lid.json"
+hash = "0a26e374e5fd78cd1b82eced896e56cee47e82f3cf59060baffcdb4ad5a3b21e"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/heavy_ball_lid.json"
+hash = "abd5d87e8cbff9ef59b0466400cdb15cccd9b396b78a134b6c9f88c339399bec"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/level_ball_lid.json"
+hash = "59badfc66c37e6e5a1e514573234412fbb2da007700b2e0227bdb3a100ec04cf"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/love_ball_lid.json"
+hash = "086fe1a2a0ff530c465e6dc626447e02187defdc77f59e952c44f4c21f7df335"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/lure_ball_lid.json"
+hash = "cfaac3022498facc04596545b7edc6c710a3e7ac8142e8d79b2d074952ff0aa4"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/luxury_ball_lid.json"
+hash = "70a25a6fbe80ed44f9c36d6c7e1b72cd6589614e74e5e6f0761822488f15bd7f"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/moon_ball_lid.json"
+hash = "47d457d46390a9658e7125ea5f416af684756098f0260f52aa985d61ac4f5153"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/nest_ball_lid.json"
+hash = "723ea01db30373f085126353cb531bee8c2ded1498e352a298f09f96b0013cf7"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/net_ball_lid.json"
+hash = "fd4a993cc80e6f78c51f8fa36560fd75aba566d26a912b3ae691fa604fe26e80"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/poke_ball_lid.json"
+hash = "8dc6840bee9873f1166b1445d7b4ddbad6aec23ce084f9363fc6f98770cce522"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/premier_ball_lid.json"
+hash = "040a307e746e54df5bf7e519ebce0b1919ef6f30184570e59031fb65aaf7a5b3"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/quick_ball_lid.json"
+hash = "98df83722f58db390dd887e1853220aa8088fe46615f91bc9a46c587283988fe"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/repeat_ball_lid.json"
+hash = "d32aa0ff46f76d72e1a6185b7d325a1cdcf6eb92b9bfa4309b8849bb1129cf31"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/safari_ball_lid.json"
+hash = "01e1c53e83764f3c3e0cd46e95c3809e6eb5d27fa561a74f628b171357941e1e"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/sport_ball_lid.json"
+hash = "7088e92d782e0de63ace1d11baef6ca3d015f68ae94df86d648159def19f2b34"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/timer_ball_lid.json"
+hash = "fe3dbefa384b2e121907e99950a8fda46d1d71fbf127548bad05b833db24a0c1"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/disc/ultra_ball_lid.json"
+hash = "df8336a366c353cc2b816e5383ea4b2208423e70d22e976ee3ea47bc8b263029"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/dive_ball_lid.json"
+hash = "021eb2c8a08d1f061e80bfbef771a6a1c69e5a389b42d6ceb8571c4cee0452cb"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/dusk_ball_lid.json"
+hash = "d9cd4002801ac9fd4cbbd7ff3afc673e7333fed6710ca968d546737a14b6d8a9"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/fast_ball_lid.json"
+hash = "6bc2c229ab045660d68b8f7abf3261fec6b9b0e514e85bd310d2adc4c5a55cd3"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/friend_ball_lid.json"
+hash = "1728954ca19a0507bb15edb490402b36440e5f7d2ec6e3487db0a04f5d209039"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/great_ball_lid.json"
+hash = "6deffc0e5697851a671798dc16b9d0ad5e3ec7a74acf46e211633007895c5e86"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/heal_ball_lid.json"
+hash = "0a26e374e5fd78cd1b82eced896e56cee47e82f3cf59060baffcdb4ad5a3b21e"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/heavy_ball_lid.json"
+hash = "abd5d87e8cbff9ef59b0466400cdb15cccd9b396b78a134b6c9f88c339399bec"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/level_ball_lid.json"
+hash = "59badfc66c37e6e5a1e514573234412fbb2da007700b2e0227bdb3a100ec04cf"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/love_ball_lid.json"
+hash = "086fe1a2a0ff530c465e6dc626447e02187defdc77f59e952c44f4c21f7df335"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/lure_ball_lid.json"
+hash = "cfaac3022498facc04596545b7edc6c710a3e7ac8142e8d79b2d074952ff0aa4"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/luxury_ball_lid.json"
+hash = "70a25a6fbe80ed44f9c36d6c7e1b72cd6589614e74e5e6f0761822488f15bd7f"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/moon_ball_lid.json"
+hash = "47d457d46390a9658e7125ea5f416af684756098f0260f52aa985d61ac4f5153"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/nest_ball_lid.json"
+hash = "723ea01db30373f085126353cb531bee8c2ded1498e352a298f09f96b0013cf7"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/net_ball_lid.json"
+hash = "fd4a993cc80e6f78c51f8fa36560fd75aba566d26a912b3ae691fa604fe26e80"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/poke_ball_lid.json"
+hash = "8dc6840bee9873f1166b1445d7b4ddbad6aec23ce084f9363fc6f98770cce522"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/premier_ball_lid.json"
+hash = "040a307e746e54df5bf7e519ebce0b1919ef6f30184570e59031fb65aaf7a5b3"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/quick_ball_lid.json"
+hash = "98df83722f58db390dd887e1853220aa8088fe46615f91bc9a46c587283988fe"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/repeat_ball_lid.json"
+hash = "d32aa0ff46f76d72e1a6185b7d325a1cdcf6eb92b9bfa4309b8849bb1129cf31"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/safari_ball_lid.json"
+hash = "01e1c53e83764f3c3e0cd46e95c3809e6eb5d27fa561a74f628b171357941e1e"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/sport_ball_lid.json"
+hash = "7088e92d782e0de63ace1d11baef6ca3d015f68ae94df86d648159def19f2b34"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/timer_ball_lid.json"
+hash = "fe3dbefa384b2e121907e99950a8fda46d1d71fbf127548bad05b833db24a0c1"
+
+[[files]]
+file = "kubejs/data/pixelmon/recipes/pokeball/lid/ultra_ball_lid.json"
+hash = "df8336a366c353cc2b816e5383ea4b2208423e70d22e976ee3ea47bc8b263029"
 
 [[files]]
 file = "kubejs/data/pixelmon/recipes/potion.json"
@@ -1245,8 +1405,16 @@ file = "kubejs/server_scripts/script.js"
 hash = "1d19134bcf89f3a59da55689e725136630aabab138d28ee1a04e50dc578790f8"
 
 [[files]]
+file = "kubejs/startup_scripts/deploying_balls.js"
+hash = "a4ad691a41cdceae5c670eb2cc59ae9b2591b7fc18446692c84f4306fadac39c"
+
+[[files]]
+file = "kubejs/startup_scripts/leaf_crushing.js"
+hash = "19110dea53351c4406c7e16909fd342838583a17fb58a8651f14662603106970"
+
+[[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "bf8c4fd787dd766c62e1f396339529032b365dad05fe175b4750f99bb4e7dc69"
+hash = "f10e6c9a1b0d5085ea398c302e5ac0216b95e6d6e1c14b77a26aa4fafb7cbfce"
 
 [[files]]
 file = "mods/3dSkinLayers-forge-1.1.0.jar"
