@@ -745,10 +745,6 @@ file = "kubejs/data/create/recipes/crafting/kinetics/empty_blaze_burner.json"
 hash = "55a1408d515bc31e651f4b97e1eb5128d25a71b485c1ec814e5d1b0a7300dc3a"
 
 [[files]]
-file = "kubejs/data/create/recipes/crafting/kinetics/large_cogwheel.json"
-hash = "5380050edc66e30c6e25d953cf3af9a83b5e52fb5d98847c7ccdefd1175d0b71"
-
-[[files]]
 file = "kubejs/data/create/recipes/crushing/armorite_ore_processing.json"
 hash = "d5207f46e95a0f9bc7aad8481edc7db9e144af4705cd66243a2cda88776705ce"
 
