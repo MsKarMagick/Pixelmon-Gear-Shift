@@ -737,6 +737,10 @@ file = "kubejs/data/create/recipes/crafting/kinetics/blaze_burner_upgrade.json"
 hash = "ead3043d8b6f62d6a0e87aa64b23c8729cd51b83f486b6ae85e8f59f544f3372"
 
 [[files]]
+file = "kubejs/data/create/recipes/crafting/kinetics/cogwheel.json"
+hash = "c275bc79635f8f01601ec1963b14b212c98ea39065b85be656ffae498d21dbb3"
+
+[[files]]
 file = "kubejs/data/create/recipes/crafting/kinetics/empty_blaze_burner.json"
 hash = "55a1408d515bc31e651f4b97e1eb5128d25a71b485c1ec814e5d1b0a7300dc3a"
 
