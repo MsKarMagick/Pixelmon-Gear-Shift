@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "CS ",
+      "   ",
+      "   "
+    ],
+    "key": {
+          "C": {
+        "item": "create:cogwheel"
+      },
+          "": {
+        "tag": "minecraft:spruce_planks"
+      },
+          "": {
+        "item": ""
+      },
+          "": {
+        "item": ""
+      },
+          "": {
+        "item": ""
+      }
+     },
+    "result": {
+      "item": "create:large_cogwheel",
+      "count": 1
+    }
+  }
+  
