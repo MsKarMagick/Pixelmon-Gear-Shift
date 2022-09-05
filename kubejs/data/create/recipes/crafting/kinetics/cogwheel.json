@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " S ",
+      "SAS",
+      " S "
+    ],
+    "key": {
+          "S": {
+        "item": "minecraft:spruce_planks"
+      },
+    
+          "A": {
+        "item": "create:andesite_alloy"
+      }
+     },
+    "result": {
+      "item": "create:cogwheel",
+      "count": 4
+    }
+  }
+  
