@@ -1,0 +1,19 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "create:crushed_platinum_ore"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:nugget_platinum",
+        "count": 10
+      },
+      {
+        "item": "kubejs:nugget_platinum",
+        "count": 5,
+        "chance": 0.5
+      }
+    ]
+  }

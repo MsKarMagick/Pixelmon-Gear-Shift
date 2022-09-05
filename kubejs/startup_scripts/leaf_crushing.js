@@ -1,8 +1,4 @@
 onEvent('recipes', event => {
-
-    //event.recipes.create.crushing([item.of('pixelmon:red_apricorn').chance(0.5)], 'pixelmon:apricorn_leaves_red', 100)
-
-
     let apricorns = ['red', 'yellow', 'blue', 'green', 'pink', 'white', 'black']
     apricorns.forEach(color => {
         event.recipes.create.crushing([item.of('pixelmon:'+color+'_apricorn').chance(0.40)], 'pixelmon:apricorn_leaves_'+color, 100)

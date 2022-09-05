@@ -1,0 +1,17 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "CCC",
+      "CCC",
+      "CCC"
+    ],
+    "key": {
+      "C": {
+        "item": "kubejs:nugget_platinum"
+      }
+    },
+    "result": {
+      "item": "pixelmon:platinum_ingot"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "kubejs:unsanded_wooden_base"
+    }
+  ],
+  "results": [
+    {
+      "item": "pixelmon:wooden_base"
+    }
+  ]
+}

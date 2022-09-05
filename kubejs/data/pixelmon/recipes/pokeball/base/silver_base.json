@@ -71,7 +71,20 @@
     ],
     "results": [
       {
-        "item": "pixelmon:silver_base"
+        "item": "pixelmon:silver_base",
+        "chance": 90.0
+      },
+      {
+        "item": "minecraft:iron_nugget",
+        "chance": 3.3
+      },
+      {
+        "item": "minecraft:redstone",
+        "chance": 3.3
+      },
+      {
+        "item": "create:iron_sheet",
+        "chance": 3.3
       }
     ],
     "loops": 1

@@ -55,7 +55,16 @@
     ],
     "results": [
       {
-        "item": "pixelmon:aluminum_base"
+        "item": "pixelmon:aluminum_base",
+        "chance": 95.0
+      },
+      {
+        "item": "minecraft:iron_nugget",
+        "chance": 2.5
+      },
+      {
+        "item": "minecraft:redstone",
+        "chance": 2.5
       }
     ],
     "loops": 1

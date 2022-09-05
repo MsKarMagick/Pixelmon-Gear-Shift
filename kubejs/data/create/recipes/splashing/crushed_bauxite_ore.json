@@ -1,0 +1,19 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "kubejs:crushed_bauxite_ore"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:nugget_aluminium",
+        "count": 10
+      },
+      {
+        "item": "kubejs:nugget_aluminium",
+        "count": 5,
+        "chance": 0.5
+      }
+    ]
+  }
