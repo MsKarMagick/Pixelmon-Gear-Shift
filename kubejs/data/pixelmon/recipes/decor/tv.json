@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "SSS",
+      "SPS",
+      "STS"
+    ],
+    "key": {
+          "T": {
+        "item": "create:electron_tube"
+      },
+          "S": {
+        "item": "kubejs:sheet_aluminium"
+      },
+          "P": {
+        "item": "minecraft:glass_pane"
+      }
+     },
+    "result": {
+      "item": "pixelmon:tv",
+      "count": 1
+    }
+  }
+  

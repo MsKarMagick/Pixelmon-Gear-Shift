@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "BUB",
+    "BBB"
+  ],
+  "key": {
+    "I": {
+      "item": "quark:iron_rod"
+    },
+    "U": {
+      "item": "grapplemod:baseupgradeitem"
+    },
+    "B": {
+      "item": "create:copper_block"
+    }
+  },
+  "result": {
+    "item": "grapplemod:magnetupgradeitem"
+  }
+}

@@ -33,6 +33,10 @@
       {
         "item": "pixelmon:covered_fossil_0",
         "chance": 0.00005
+      },
+      {
+        "item": "pixelmon_create_compat:aluminum_nugget",
+        "chance": 0.125
       }
     ]
   }

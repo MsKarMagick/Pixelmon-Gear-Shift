@@ -1821,6 +1821,11 @@ hash = "ab4b4df0fe91e7af8b42f85957cd2c08a678ca9c70f8ea6cf8a5cccdd64a35be"
 metafile = true
 
 [[files]]
+file = "mods/pixelmon-create-compat.pw.toml"
+hash = "841830fb5269721091cd5cd55a3ffa275180f928eb1e1fb9158d3ab2f625d4d6"
+metafile = true
+
+[[files]]
 file = "mods/pixelmon.pw.toml"
 hash = "64c0009eb0738f509cec1077aac9190c37db1de1e5465deaf046a8e924ad7df9"
 metafile = true

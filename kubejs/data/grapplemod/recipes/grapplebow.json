@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RPR",
+    "RGR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:ropes"
+    },
+    "P": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "G": {
+      "item": "quark:bonded_leather"
+    }
+  },
+  "result": {
+    "item": "grapplemod:grapplinghook"
+  }
+}

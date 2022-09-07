@@ -57,12 +57,9 @@ onEvent('item.registry', event => {
 	event.create('sheet_silver').displayName('Silver Sheet')
 	event.create('sheet_platinum').displayName('Platinum Sheet')
 	event.create('sheet_aluminium').displayName('Aluminium Sheet')
-    
-	//Nuggets
-	event.create('nugget_platinum').displayName('Platinum Nugget')
-	event.create('nugget_aluminium').displayName('Aluminium Nugget')
-	event.create('nugget_silver').displayName('Silver Nugget')
 
-	//Crushed Bauxite
-	event.create('crushed_bauxite_ore').displayName('Crushed Bauxite Ore')
+	//Shards & Bits
+	event.create('shard_amethyst').displayName('Amethyst Shard')
+	event.create('bit_sapphire').displayName('Sapphire Bit')
+	event.create('bit_ruby').displayName('Ruby Bit')
 })

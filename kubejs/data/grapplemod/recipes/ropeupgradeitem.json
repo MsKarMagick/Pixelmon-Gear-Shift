@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RUR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:ropes"
+    },
+    "U": {
+      "item": "grapplemod:baseupgradeitem"
+    }
+  },
+  "result": {
+    "item": "grapplemod:ropeupgradeitem"
+  }
+}

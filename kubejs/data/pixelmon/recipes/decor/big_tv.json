@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "TTT",
+      "GLG",
+      "SRS"
+    ],
+    "key": {
+      "S": {
+        "item": "createaddition:iron_rod"
+      },
+      "G": {
+        "item": "minecraft:glass_pane"
+      },
+      "L": {
+        "item": "pixelmon:tv2"
+      },
+      "R": {
+        "item": "minecraft:stone_button"
+      },
+      "T": {
+        "item": "create:electron_tube"
+      }
+    },
+    "result": {
+      "item": "pixelmon:tv3",
+      "count": 1
+    }
+  }

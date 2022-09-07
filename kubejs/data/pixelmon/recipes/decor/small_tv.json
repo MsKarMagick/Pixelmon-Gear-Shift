@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "SSS",
+      "PTP",
+      "RGB"
+    ],
+    "key": {
+          "P": {
+        "item": "minecraft:glass_pane"
+      },
+          "T": {
+        "item": "create:electron_tube"
+      },
+          "S": {
+        "item": "kubejs:sheet_aluminium"
+      },
+          "R": {
+        "item": "minecraft:red_dye"
+      },
+          "G": {
+        "item": "minecraft:green_dye"
+      },
+          "B": {
+        "item": "minecraft:blue_dye"
+      }
+     },
+    "result": {
+      "item": "pixelmon:tv2",
+      "count": 1
+    }
+  }
+  

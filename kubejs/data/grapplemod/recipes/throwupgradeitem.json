@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "URU",
+    "RTR"
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:ropes"
+    },
+    "U": {
+      "item": "grapplemod:baseupgradeitem"
+    },
+    "P": {
+      "item": "create:potato_cannon"
+    },
+    "T": {
+      "item": "create:copper_backtank"
+    }
+  },
+  "result": {
+    "item": "grapplemod:throwupgradeitem"
+  }
+}

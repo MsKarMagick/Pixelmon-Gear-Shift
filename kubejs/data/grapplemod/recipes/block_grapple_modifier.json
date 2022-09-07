@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CUC",
+    "UAU",
+    "TUT"
+  ],
+  "key": {
+    "C": {
+      "item": "create:andesite_alloy"
+    },
+    "U": {
+      "item": "grapplemod:baseupgradeitem"
+    },
+    "A": {
+      "item": "minecraft:anvil"
+    },
+    "T": {
+      "item": "create:brass_casing"
+    }
+  },
+  "result": {
+    "item": "grapplemod:block_grapple_modifier"
+  }
+}

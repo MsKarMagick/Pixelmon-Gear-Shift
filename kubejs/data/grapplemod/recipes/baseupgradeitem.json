@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " M ",
+    "BRB",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:ropes"
+    },
+    "M": {
+      "item": "create:precision_mechanism"
+    },
+    "B": {
+      "item": "create:brass_sheet"
+    }
+  },
+  "result": {
+    "item": "grapplemod:baseupgradeitem"
+  }
+}

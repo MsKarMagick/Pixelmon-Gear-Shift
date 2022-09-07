@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XUX",
+    "RGR",
+    "RUR"
+  ],
+  "key": {
+    "X": {
+      "item": "grapplemod:grapplinghook"
+    },
+    "U": {
+      "item": "grapplemod:baseupgradeitem"
+    },
+    "R": {
+      "tag": "forge:ropes"
+    },
+    "G": {
+      "item": "create:super_glue"
+    }
+  },
+  "result": {
+    "item": "grapplemod:doubleupgradeitem"
+  }
+}

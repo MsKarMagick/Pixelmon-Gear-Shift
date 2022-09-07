@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " V ",
+    "FUF",
+    "EVE"
+  ],
+  "key": {
+    "V": {
+      "item": "minecraft:vine"
+    },
+    "U": {
+      "item": "grapplemod:baseupgradeitem"
+    },
+    "F": {
+      "tag": "forge:feathers"
+    },
+    "E": {
+      "item": "create:encased_fan"
+    }
+  },
+  "result": {
+    "item": "grapplemod:swingupgradeitem"
+  }
+}

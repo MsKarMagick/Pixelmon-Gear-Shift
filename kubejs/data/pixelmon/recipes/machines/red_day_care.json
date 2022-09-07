@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "CCC",
+      "LPR",
+      "SAS"
+    ],
+    "key": {
+          "C": {
+        "item": "createaddition:overcharged_casing"
+      },
+          "L": {
+        "item": "pixelmon:trade_holder_left"
+      },
+          "R": {
+        "item": "pixelmon:trade_holder_right"
+      },
+          "S": {
+        "item": "kubejs:sheet_aluminium"
+      },
+          "P": {
+        "item": "pixelmon:pc"
+      },
+      "A": {
+        "item": "create:mechanical_arm"
+      }
+     },
+    "result": {
+      "item": "pixelmon:red_day_care",
+      "count": 1
+    }
+  }
+  

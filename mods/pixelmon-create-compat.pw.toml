@@ -1,0 +1,13 @@
+name = "PixelCreate Compat"
+filename = "Pixelmon Create Compat-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "849af87b9a84837dc27c5395263c426d43667901"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3825797
+project-id = 631971

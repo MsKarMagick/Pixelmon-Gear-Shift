@@ -13,7 +13,7 @@
         "item": "pixelmon:darkworkplace"
       },
           "P": {
-        "item": "pixelmon:aluminium_plate"
+        "item": "kubejs:sheet_aluminium"
       },
           "M": {
         "item": "create:precision_mechanism"

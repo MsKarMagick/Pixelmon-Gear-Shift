@@ -1,0 +1,28 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+      "  C  ",
+      " ECE ",
+      "ECRCE",
+      " TTT "
+    ],
+    "key": {
+      "C": {
+        "item": "create:copper_block"
+      },
+      "E": {
+        "item": "pixelmon:thunder_stone"
+      },
+      "R": {
+        "item": "create:refined_radiance"
+      },
+      "T": {
+        "item": "pixelmon:temple_block"
+      }
+    },
+    "result": {
+      "item": "pixelmon:zapdos_shrine",
+      "count": 1
+    },
+    "acceptMirrored": false
+  }

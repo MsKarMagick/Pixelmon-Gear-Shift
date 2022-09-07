@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "URU",
+    "ACA",
+    "cRc"
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:ropes"
+    },
+    "U": {
+      "item": "grapplemod:baseupgradeitem"
+    },
+    "A": {
+      "item": "createaddition:alternator"
+    },
+    "C": {
+      "tag": "forge:large_cogwheels"
+    },
+    "c": {
+      "item": "create:cogwheel"
+    }
+  },
+  "result": {
+    "item": "grapplemod:motorupgradeitem"
+  }
+}

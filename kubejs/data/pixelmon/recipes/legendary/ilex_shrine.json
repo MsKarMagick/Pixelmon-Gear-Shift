@@ -1,0 +1,40 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+      "  1  ",
+      " 1R1 ",
+      "1RBR1",
+      "22R22",
+      "33333",
+      "LSSSL",
+      "L   L"
+    ],
+    "key": {
+      "1": {
+        "item": "byg:redwood_planks"
+      },
+      "2": {
+        "item": "minecraft:dark_oak_planks"
+      },
+      "3": {
+        "item": "minecraft:spruce_planks"
+      },
+      "L": {
+        "item": "pixelmon:apricorn_log_yellow"
+      },
+      "S": {
+        "item": "minecraft:spruce_slab"
+      },
+      "R": {
+        "item": "create:refined_radiance"
+      },
+      "B": {
+        "item": "pixelmon:gs_ball"
+      }
+    },
+    "result": {
+      "item": "pixelmon:ilex_shrine",
+      "count": 1
+    },
+    "acceptMirrored": false
+  }
