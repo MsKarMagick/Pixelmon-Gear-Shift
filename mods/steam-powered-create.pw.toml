@@ -1,0 +1,13 @@
+name = "Create: Steam Powered"
+filename = "steampowered-1.16.5-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dadf2f4100be3514d76d9ec4785cacea0eeb2b56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3941621
+project-id = 534610

@@ -2,6 +2,7 @@
 	"replace": false,
 	"values": [
 		"quark:rope",
-		"supplementaries:rope"
+		"supplementaries:rope",
+		"farmersdelight:rope"
 	]
 }

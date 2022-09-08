@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"create:weathered_limestone",
+        "create:weathered_limestone_cobblestone"
+	]
+}

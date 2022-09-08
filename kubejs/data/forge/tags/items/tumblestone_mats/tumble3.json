@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"create:scoria",
+        "create:scoria_cobblestone"
+	]
+}

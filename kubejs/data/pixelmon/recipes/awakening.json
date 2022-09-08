@@ -2,23 +2,26 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
       "PIB",
-      "PIP",
+      "IGI",
       "PIP"
     ],
     "key": {
           "P": {
-        "tag": "forge:plates/aluminium"
+            "tag": "forge:plates/aluminium"
       },
           "I": {
-        "item": "minecraft:spider_eye"
+        "item": "pixelmon:chesto_berry"
       },
           "B": {
         "item": "quark:iron_button"
+      },
+          "G": {
+        "item": "minecraft:glass_bottle"
       }
      },
     "result": {
-      "item": "pixelmon:super_repel",
-      "count": 4
+      "item": "pixelmon:awakening",
+      "count": 8
     }
   }
   

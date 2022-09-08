@@ -19,10 +19,10 @@
       "item": "create:belt_connector"
     },
 		"P": {
-      "item": "pixelmon:aluminium_plate"
+      "tag": "forge:plates/aluminium"
     },
     "G": {
-      "item": "create:large_cogwheel"
+      "tag": "forge:large_cogwheels"
     }
    },
   "result": {

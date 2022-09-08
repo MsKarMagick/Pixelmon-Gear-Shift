@@ -19,7 +19,7 @@
       "tag": "forge:large_cogwheels"
     },
     "c": {
-      "item": "create:cogwheel"
+      "tag": "forge:cogwheels"
     }
   },
   "result": {

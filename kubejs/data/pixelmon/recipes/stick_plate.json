@@ -19,7 +19,7 @@
       "item": "create:super_glue"
     },
 		"P": {
-      "item": "pixelmon:aluminium_plate"
+      "tag": "forge:plates/aluminium"
     }
    },
   "result": {

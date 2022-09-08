@@ -34,7 +34,32 @@ onEvent('recipes', event => {
 
 	//Bone > Bonemeal smelting Remove
 	event.remove({id:'quark:tweaks/smelting/bone_meal_utility'})
-
+	
 	//Bauxite requires Blasting
 	event.remove({id:'pixelmon:furnace/bauxite_ore'})
+	event.remove({id:'create:smelting/aluminum_ingot_compat_pixelmon'})
+
+	//Platinum requires Blasting
+	event.remove({id:'pixelmon:furnace/platinum_ore'})
+	event.remove({id:'create:smelting/platinum_ingot_compat_pixelmon'})
+
+	//BYG Basalt crushing recipe Remove
+	event.remove({id:'byg:compat/create/black_sand_from_crushing'})
+
+	//Farmer's Delight Removes
+	event.remove({id:'farmersdelight:horse_feed'})
+	event.remove({id:'farmersdelight:cooking/dog_food'})
+	event.remove({id:'farmersdelight:wheat_dough'})
+	event.remove({id:'farmersdelight:bread_from_smelting'})
+	event.remove({id:'farmersdelight:bread_from_smoking'})
+
+	//Quark veggie crates Removes
+	event.remove({id:'quark:building/crafting/compressed/potato_crate'})
+	event.remove({id:'quark:building/crafting/compressed/carrot_crate'})
+	event.remove({id:'quark:building/crafting/compressed/beetroot_crate'})
+
+	//Horse Armor Removes
+	event.remove({id:'minecraft:leather_horse_armor'})
+	event.remove({id:'byg:ametrine_horse_armor'})
+	event.remove({id:'byg:pendorite_horse_armor'})
 })

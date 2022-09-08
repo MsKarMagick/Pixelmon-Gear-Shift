@@ -1,0 +1,18 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "minecraft:basalt"
+      }
+    ],
+    "results": [
+      {
+        "item": "pixelmon_create_compat:silver_nugget",
+        "chance": 0.125
+      },
+      {
+        "item": "byg:black_sand"
+      }
+    ],
+    "processingTime": 250
+  }

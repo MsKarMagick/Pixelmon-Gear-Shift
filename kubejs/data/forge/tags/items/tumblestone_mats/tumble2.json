@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"create:gabbro",
+        "create:gabbro_cobblestone"
+	]
+}

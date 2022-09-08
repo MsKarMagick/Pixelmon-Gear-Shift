@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:granite",
+        "create:granite_cobblestone"
+	]
+}

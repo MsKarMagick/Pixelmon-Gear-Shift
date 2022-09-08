@@ -1611,6 +1611,11 @@ hash = "ee6b63b9f81d87c75ac5115232548df5347fe9456f7ee8a80cd137043616191a"
 metafile = true
 
 [[files]]
+file = "mods/create-alloyed.pw.toml"
+hash = "2bf49ba24cca4ea1764f86ebd890a4cb3bc32144b84e700dc4ffacf99b10781b"
+metafile = true
+
+[[files]]
 file = "mods/create-automated.pw.toml"
 hash = "c3c3fac7f5e7c913913abd1a1ea5ce40c5186e88c223833bd3e602252e75077e"
 metafile = true
@@ -1906,6 +1911,11 @@ hash = "217dce4ed546bc2e3dac21b907fa7971040e2e47b6cd7fcf0e5b3f88790783bb"
 metafile = true
 
 [[files]]
+file = "mods/steam-powered-create.pw.toml"
+hash = "36bcc6cad3a88829ac0252d9ec39e2f7bdd9e1a54f13b1f66a81dd049569e525"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "7b5c9093a8309bf016de0bd7bd655b6522632d6c8291c3cdeb9a27c327667311"
 metafile = true
@@ -1933,6 +1943,11 @@ metafile = true
 [[files]]
 file = "mods/time-core.pw.toml"
 hash = "d615602a627c9aa6c280283b30744dac6222ebc43d889eef2e6fe2069d3310c1"
+metafile = true
+
+[[files]]
+file = "mods/trample-stopper.pw.toml"
+hash = "998199e6d7ef491538bdf092ccedca641750f662d5457ab2c7cb2e81548642e6"
 metafile = true
 
 [[files]]

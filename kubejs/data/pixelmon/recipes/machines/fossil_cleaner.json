@@ -16,7 +16,7 @@
       "item": "minecraft:water_bucket"
     },
 		"C": {
-      "item": "create:cogwheel"
+      "tag": "forge:cogwheels"
     }
    },
   "result": {

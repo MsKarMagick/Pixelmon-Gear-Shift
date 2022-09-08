@@ -7,7 +7,7 @@
     ],
     "key": {
           "P": {
-        "item": "pixelmon:aluminium_plate"
+            "tag": "forge:plates/aluminium"
       },
           "I": {
         "item": "pixelmon:aspear_berry"

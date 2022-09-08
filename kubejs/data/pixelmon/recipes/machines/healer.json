@@ -19,7 +19,7 @@
       "item": "create:precision_mechanism"
     },
 		"P": {
-      "item": "pixelmon:aluminium_plate"
+      "tag": "forge:plates/aluminium"
     },
     "T": {
       "item": "minecraft:ghast_tear"
