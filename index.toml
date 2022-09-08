@@ -1767,6 +1767,11 @@ hash = "4a9c1537f0a5724668248c55a39952e82f47277138fb192991899ca34ad548ab"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "7784bbe87c156cdc99cce7ea79cc2d7d96580f716848e33ab215a31351625a61"
 metafile = true
